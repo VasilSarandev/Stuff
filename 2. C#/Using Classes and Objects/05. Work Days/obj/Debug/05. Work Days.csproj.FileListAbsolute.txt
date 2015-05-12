@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Telerik\C#2\Using Classes and Objects\05. Work Days\bin\Debug\_05.Work_Days.exe.config
+C:\Users\User\Desktop\Telerik\C#2\Using Classes and Objects\05. Work Days\bin\Debug\_05.Work_Days.exe
+C:\Users\User\Desktop\Telerik\C#2\Using Classes and Objects\05. Work Days\bin\Debug\_05.Work_Days.pdb
+C:\Users\User\Desktop\Telerik\C#2\Using Classes and Objects\05. Work Days\obj\Debug\05. Work Days.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Telerik\C#2\Using Classes and Objects\05. Work Days\obj\Debug\_05.Work_Days.exe
+C:\Users\User\Desktop\Telerik\C#2\Using Classes and Objects\05. Work Days\obj\Debug\_05.Work_Days.pdb

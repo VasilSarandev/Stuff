@@ -1,0 +1,149 @@
+﻿<html>
+<head>
+    <title></title>
+        <style>
+        #board{
+        position:absolute;
+        top:180px;
+        left:350px;
+        background-image:url("https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTY4ExrYX5NeFEm1adITBbtEyRNdcvGh_p8jjKVVluIfE49KGRLAw");}
+        
+        </style>
+    <script type="text/javascript">
+        //function test() 
+                //                torchlight 2
+        //    var canvas = document.getElementById("board");
+        //    var context = canvas.getContext("2d");
+        //    context.fillStyle = "#00008b";
+        //    context.fillRect(0, 0, 20, 20);
+        //}
+                
+                
+        var Player = function (x, y, moveX, moveY) {
+            this.x = x;
+            this.y = y;
+            this.moveX = moveX;
+            this.moveY = moveY;
+        }
+                
+                
+                var blocks = function (x, y) {
+            this.x = x;
+            this.y = y;
+                        
+        }
+        var redPlayer = new Player(0, 250, 1, 0);
+        var bluePlayer = new Player(500, 250, -1, 0);
+                var leftTopBlock = new blocks(30,30,1,0);
+                var rightTopBlock = new blocks(420,30,-1,0);
+                var leftBottomBlock = new blocks(30,420,1,0);
+                var rightBottomBlock = new blocks(420,420,-1,0);
+                
+        var usedPositions = {};
+                
+        function playGame() {
+            var canvas = document.getElementById("board");
+            var context = canvas.getContext("2d");
+                        context.font="30px Arial";
+                        var text=context.fillText("The Game",140,140);
+                        context.clearRect
+            function draw() {
+                        
+                context.fillStyle = "#FF0000";
+                context.fillRect(redPlayer.x, redPlayer.y, 2, 2);
+                context.fillStyle = "#0000FF";
+                context.fillRect(bluePlayer.x, bluePlayer.y, 2, 2);
+                        
+                                context.fillStyle = "#00FF00";
+                context.fillRect(leftTopBlock.x, leftTopBlock.y, 50, 50);
+                                context.fillStyle = "#00FF00";
+                context.fillRect(rightTopBlock.x, rightTopBlock.y, 50, 50);
+                                context.fillStyle = "#00FF00";
+                context.fillRect(leftBottomBlock.x, leftBottomBlock.y, 50, 50);
+                                context.fillStyle = "#00FF00";
+                context.fillRect(rightBottomBlock.x, rightBottomBlock.y, 50, 50);
+                                
+            }
+            var interval = setInterval(function () {
+                draw();
+                move();
+            }, 10);
+                        
+                        
+                        
+            function move() {
+                if (usedPositions[redPlayer.x + "," + redPlayer.y]) {
+                    alert("Red is dead");
+                    clearInterval(interval);
+                }
+                if (usedPositions[bluePlayer.x + "," + bluePlayer.y]) {
+                    alert("Blue is dead");
+                    clearInterval(interval);
+                }
+                usedPositions[redPlayer.x + "," + redPlayer.y] = true;
+                usedPositions[bluePlayer.x + "," + bluePlayer.y] = true;
+                redPlayer.x = redPlayer.x + redPlayer.moveX;
+                redPlayer.y = redPlayer.y + redPlayer.moveY;
+                bluePlayer.x = bluePlayer.x + bluePlayer.moveX;
+                bluePlayer.y = bluePlayer.y + bluePlayer.moveY;
+                                
+                                
+                                
+            }
+        }
+        function getInput(event) {
+            var symbol = String.fromCharCode(event.keyCode);
+            if (symbol == 'A' || symbol == 'a') {
+                redPlayer.moveX = -1;
+                redPlayer.moveY = 0;
+            }
+            if (symbol == 'W' || symbol == 'w') {
+                redPlayer.moveX = 0;
+                redPlayer.moveY = -1;
+            }
+            if (symbol == 'D' || symbol == 'd') {
+                redPlayer.moveX = 1;
+                redPlayer.moveY = 0;
+            }
+            if (symbol == 'S' || symbol == 's') {
+                redPlayer.moveX = 0;
+                redPlayer.moveY = 1;
+            }
+                        
+                        
+                        
+                        var symbol2 = event.keyCode;
+            if (symbol2 == 37 ) {
+                bluePlayer.moveX = -1;
+                bluePlayer.moveY = 0;
+            }
+            if (symbol2 == 38 ) {
+                bluePlayer.moveX = 0;
+                bluePlayer.moveY = -1;
+            }
+            if (symbol2 == 39 ) {
+                bluePlayer.moveX = 1;
+                bluePlayer.moveY = 0;
+            }
+            if (symbol2 == 40 ) {
+                bluePlayer.moveX = 0;
+                bluePlayer.moveY = 1;
+                                
+            }
+                        
+        }
+                
+    </script>
+</head>
+<body onload="playGame()" onkeydown="getInput(event)">
+<div>
+    <canvas id="board"
+        width="500"
+        height="510"
+                >Your Browser Does Not Support Canvas!</canvas>
+                <footer>
+                <a href="">Reset Game</a>
+                </footer>
+</div>
+</body>
+</html>

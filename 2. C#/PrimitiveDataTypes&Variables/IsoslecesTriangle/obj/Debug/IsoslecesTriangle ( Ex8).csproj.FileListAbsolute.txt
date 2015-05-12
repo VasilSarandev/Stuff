@@ -1,0 +1,6 @@
+C:\Users\Krasimir\Desktop\TELERIK\TELERIK HW\DataTypesVariables\PrimitiveDataTypesAndVariablesHW\IsoslecesTriangle\bin\Debug\IsoslecesTriangle.exe.config
+C:\Users\Krasimir\Desktop\TELERIK\TELERIK HW\DataTypesVariables\PrimitiveDataTypesAndVariablesHW\IsoslecesTriangle\bin\Debug\IsoslecesTriangle.exe
+C:\Users\Krasimir\Desktop\TELERIK\TELERIK HW\DataTypesVariables\PrimitiveDataTypesAndVariablesHW\IsoslecesTriangle\bin\Debug\IsoslecesTriangle.pdb
+C:\Users\Krasimir\Desktop\TELERIK\TELERIK HW\DataTypesVariables\PrimitiveDataTypesAndVariablesHW\IsoslecesTriangle\obj\Debug\IsoslecesTriangle ( Ex8).csprojResolveAssemblyReference.cache
+C:\Users\Krasimir\Desktop\TELERIK\TELERIK HW\DataTypesVariables\PrimitiveDataTypesAndVariablesHW\IsoslecesTriangle\obj\Debug\IsoslecesTriangle.exe
+C:\Users\Krasimir\Desktop\TELERIK\TELERIK HW\DataTypesVariables\PrimitiveDataTypesAndVariablesHW\IsoslecesTriangle\obj\Debug\IsoslecesTriangle.pdb

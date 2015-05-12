@@ -1,0 +1,27 @@
+﻿<html>
+<head>
+	<title></title>
+	<link href="styles/js-console.css" rel="stylesheet" />
+	
+</head>
+<body>
+<h1>Even or Odd. This is The Question. What is The Answer ?</h1>
+<input type="text" id="num1" placeholder="Please, enter a integer" />
+<input type="submit"  value="See the Magic" onclick="calculate()"/>
+<div id="js-console"></div>
+<script src="scripts/js-console.js"></script>
+<script>
+function calculate() {
+var a=document.getElementById('num1') .value;
+a=parseInt(a);
+if(a%2==1)
+jsConsole.writeLine("The integer you entered is odd ");
+else
+jsConsole.writeLine("The integer you enetered is even");
+}
+	
+	
+	
+	</script>
+</body>
+</html>

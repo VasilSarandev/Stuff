@@ -1,0 +1,24 @@
+﻿<html>
+<head>
+<title>Replacing a href</title>
+	<link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body onload="giveText()">
+<button onclick="ReplaceEmUrlz()">Execute function</button>
+<div id="js-console"></div>
+<script src="scripts/js-console.js"></script>
+<script>
+function ReplaceEmUrlz() {
+var text = '<p>Please visit <a href="http://academy.telerik.com">our site</a> to choose a training course. Also visit <a href="www.devbg.org">our forum</a> to discuss the courses.</p>';
+jsConsole.writeLine(text);
+var result= '';
+result=text.replace(/<a href="/gi, '[URL=');
+result=result.replace(/">/gi, ']');
+result=result.replace(/<\/a>/gi, '[/URL]');
+jsConsole.writeLine("After replacement: ");
+jsConsole.writeLine(result);
+
+}
+</script>
+</body>
+</html>

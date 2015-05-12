@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\Telerik\C#2\MethodsHW\02. Get Largest Number\bin\Debug\_02.Get_Largest_Number.exe.config
+C:\Users\User\Desktop\Telerik\C#2\MethodsHW\02. Get Largest Number\bin\Debug\_02.Get_Largest_Number.exe
+C:\Users\User\Desktop\Telerik\C#2\MethodsHW\02. Get Largest Number\bin\Debug\_02.Get_Largest_Number.pdb
+C:\Users\User\Desktop\Telerik\C#2\MethodsHW\02. Get Largest Number\obj\Debug\_02.Get_Largest_Number.exe
+C:\Users\User\Desktop\Telerik\C#2\MethodsHW\02. Get Largest Number\obj\Debug\_02.Get_Largest_Number.pdb

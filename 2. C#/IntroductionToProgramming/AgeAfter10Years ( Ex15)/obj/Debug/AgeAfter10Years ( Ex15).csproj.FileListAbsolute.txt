@@ -1,0 +1,5 @@
+C:\Users\Krasimir\Desktop\TELERIK\TELERIK HW\Programming Introduction\New folder\HelloCSharp\AgeAfter10Years ( Ex15)\bin\Debug\AgeAfter10Years ( Ex15).exe.config
+C:\Users\Krasimir\Desktop\TELERIK\TELERIK HW\Programming Introduction\New folder\HelloCSharp\AgeAfter10Years ( Ex15)\bin\Debug\AgeAfter10Years ( Ex15).exe
+C:\Users\Krasimir\Desktop\TELERIK\TELERIK HW\Programming Introduction\New folder\HelloCSharp\AgeAfter10Years ( Ex15)\bin\Debug\AgeAfter10Years ( Ex15).pdb
+C:\Users\Krasimir\Desktop\TELERIK\TELERIK HW\Programming Introduction\New folder\HelloCSharp\AgeAfter10Years ( Ex15)\obj\Debug\AgeAfter10Years ( Ex15).exe
+C:\Users\Krasimir\Desktop\TELERIK\TELERIK HW\Programming Introduction\New folder\HelloCSharp\AgeAfter10Years ( Ex15)\obj\Debug\AgeAfter10Years ( Ex15).pdb

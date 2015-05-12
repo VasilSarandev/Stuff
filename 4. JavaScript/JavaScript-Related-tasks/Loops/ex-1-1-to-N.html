@@ -1,0 +1,21 @@
+﻿<html>
+<head>
+<title>Printing numbers 1 to N</title>
+	<link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+<input type="text" id="tb" placeholder="Please Enter Integer" />
+<input type="button" value="Print Numbers from 1 to Integer" onclick="Calculate()" />
+<div id="js-console"></div>
+<script src="scripts/js-console.js"></script>
+<script>
+	function Calculate() {
+		var N=document.getElementById('tb').value;
+			for(var i=0; i<N; i++) {
+				jsConsole.writeLine(i);
+				}
+			jsConsole.writeLine(N);
+			}
+</script>
+</body>
+</html>

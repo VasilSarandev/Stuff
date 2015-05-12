@@ -1,0 +1,35 @@
+﻿<html>
+<head>
+<title>Most Frequent Number in Array</title>
+	<link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+<button onclick="MyFunc()">Execute</button>
+<div id="js-console"></div>
+<script src="scripts/js-console.js"></script>
+<script>
+function MyFunc() {
+var MyArray=[1,2,2,3,3,3,4,4,4,4,5,5,5,5,5,6,7];
+var popular=0;
+var wannabe=0;
+var MyArrayArg;
+var popularyitem;
+	for (var i=0; i<MyArray.length; i++) {
+	MyArrayArg=MyArray[i];
+		for (var j=0; j<MyArray.length; j++) {
+			if(MyArrayArg==MyArray[j]){
+				wannabe++;
+				}
+			if(wannabe>popular) {
+			popularyitem=MyArrayArg;
+			popular=wannabe;
+			}
+			}
+			wannabe=0;
+			}
+		jsConsole.writeLine("Array: " +MyArray);
+		jsConsole.writeLine("Most repeated number is " +popularyitem +" Repeated " +popular + " times");
+		}
+</script>
+</body>
+</html>

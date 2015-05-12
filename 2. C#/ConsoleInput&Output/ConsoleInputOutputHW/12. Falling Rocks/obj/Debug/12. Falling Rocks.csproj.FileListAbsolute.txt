@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\Telerik\ConsoleInput&Output HW\ConsoleInputOutputHW\12. Falling Rocks\bin\Debug\_12.Falling_Rocks.exe.config
+C:\Users\User\Desktop\Telerik\ConsoleInput&Output HW\ConsoleInputOutputHW\12. Falling Rocks\bin\Debug\_12.Falling_Rocks.exe
+C:\Users\User\Desktop\Telerik\ConsoleInput&Output HW\ConsoleInputOutputHW\12. Falling Rocks\bin\Debug\_12.Falling_Rocks.pdb
+C:\Users\User\Desktop\Telerik\ConsoleInput&Output HW\ConsoleInputOutputHW\12. Falling Rocks\obj\Debug\12. Falling Rocks.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Telerik\ConsoleInput&Output HW\ConsoleInputOutputHW\12. Falling Rocks\obj\Debug\_12.Falling_Rocks.exe
+C:\Users\User\Desktop\Telerik\ConsoleInput&Output HW\ConsoleInputOutputHW\12. Falling Rocks\obj\Debug\_12.Falling_Rocks.pdb
+C:\Users\User\Desktop\Telerik\C# 1\ConsoleInput&Output HW\ConsoleInputOutputHW\12. Falling Rocks\bin\Debug\_12.Falling_Rocks.exe.config
+C:\Users\User\Desktop\Telerik\C# 1\ConsoleInput&Output HW\ConsoleInputOutputHW\12. Falling Rocks\obj\Debug\_12.Falling_Rocks.exe
+C:\Users\User\Desktop\Telerik\C# 1\ConsoleInput&Output HW\ConsoleInputOutputHW\12. Falling Rocks\obj\Debug\_12.Falling_Rocks.pdb
+C:\Users\User\Desktop\Telerik\C# 1\ConsoleInput&Output HW\ConsoleInputOutputHW\12. Falling Rocks\bin\Debug\_12.Falling_Rocks.exe
+C:\Users\User\Desktop\Telerik\C# 1\ConsoleInput&Output HW\ConsoleInputOutputHW\12. Falling Rocks\bin\Debug\_12.Falling_Rocks.pdb
+C:\Users\User\Desktop\Telerik\C# 1\ConsoleInput&Output HW\ConsoleInputOutputHW\12. Falling Rocks\obj\Debug\12. Falling Rocks.csprojResolveAssemblyReference.cache

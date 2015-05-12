@@ -1,0 +1,6 @@
+C:\Users\Krasimir\Desktop\TELERIK\TELERIK HW\DataTypesVariables\PrimitiveDataTypesAndVariablesHW\PrimitiveDataTypesAndVariablesHW\bin\Debug\PrimitiveDataTypesAndVariablesHW.exe.config
+C:\Users\Krasimir\Desktop\TELERIK\TELERIK HW\DataTypesVariables\PrimitiveDataTypesAndVariablesHW\PrimitiveDataTypesAndVariablesHW\bin\Debug\PrimitiveDataTypesAndVariablesHW.exe
+C:\Users\Krasimir\Desktop\TELERIK\TELERIK HW\DataTypesVariables\PrimitiveDataTypesAndVariablesHW\PrimitiveDataTypesAndVariablesHW\bin\Debug\PrimitiveDataTypesAndVariablesHW.pdb
+C:\Users\Krasimir\Desktop\TELERIK\TELERIK HW\DataTypesVariables\PrimitiveDataTypesAndVariablesHW\PrimitiveDataTypesAndVariablesHW\obj\Debug\DeclareVariables ( Ex1).csprojResolveAssemblyReference.cache
+C:\Users\Krasimir\Desktop\TELERIK\TELERIK HW\DataTypesVariables\PrimitiveDataTypesAndVariablesHW\PrimitiveDataTypesAndVariablesHW\obj\Debug\PrimitiveDataTypesAndVariablesHW.exe
+C:\Users\Krasimir\Desktop\TELERIK\TELERIK HW\DataTypesVariables\PrimitiveDataTypesAndVariablesHW\PrimitiveDataTypesAndVariablesHW\obj\Debug\PrimitiveDataTypesAndVariablesHW.pdb

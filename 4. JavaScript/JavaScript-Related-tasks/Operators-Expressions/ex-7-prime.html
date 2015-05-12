@@ -1,0 +1,30 @@
+﻿<html>
+<head>
+<title>Optimus PRIME</title>
+<link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+<h1>Is number prime?</h1>
+<input type="text" id="tb" placeholder="Please enter a integer" />
+<input type="button" onclick="calculate()" value="Find Out" />
+<div id="js-console"></div>
+<script src="scripts/js-console.js"></script>
+<script>
+		function calculate() {
+		var counter=0;
+		var a=document.getElementById('tb') .value;
+		for (var i=2; i<a; i++) {
+		if(a%i==0){
+		counter++;
+		}
+		}
+		if(counter>0) {
+		jsConsole.writeLine("Number isn't prime");
+		}
+		else {
+		jsConsole.writeLine("Number is prime");
+		}
+		}
+</script>
+</body>
+</html>

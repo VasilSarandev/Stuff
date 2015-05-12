@@ -1,0 +1,110 @@
+﻿<html>
+<head>
+<title>
+</title>
+<style>
+canvas{
+	border:1px solid black;
+}
+</style>
+</head>
+<body onkeydown="getInput(event)">
+<canvas id="car-race" width="1024" height="600"> </canvas>
+<script>
+    var canvas = document.getElementById("car-race"),
+        ctx = canvas.getContext("2d");
+		 function Car(x,y,speed, img){
+  
+			  this.x = x;
+			  this.y = y;
+			  this.speed = speed;
+			  this.img = img;
+			  //.move right
+							this.moveRight = function() {
+							this.x += this.speed;
+							};
+		//move up
+				this.moveUp = function() {
+				this.y -= speed
+				};
+		//move down
+		
+				this.moveDown = function() {
+				this.y += speed;
+					};
+			this.moveLeft = function() {
+			this.x -= this.speed;
+			};
+			
+							  this.draw = function(ctx){
+				ctx.drawImage(img, this.x, this.y);
+			 };
+			 
+			  }
+			  //img & draw.
+        var img=new Image();
+		img.onload = function(){				
+			car1.draw(ctx);
+			car.draw(ctx);
+		}
+        img.src="http://www.clker.com/cliparts/r/Z/D/N/E/w/red-car-top-view-th.png";
+		var car1=new Car(10,15,3, img);
+		var car= new Car(150,435,3, img);
+
+        function getInput(event) {
+		
+            var symbol = String.fromCharCode(event.keyCode);
+            if (symbol == 'A' || symbol == 'a') {
+car1.moveLeft();
+				
+            }
+
+            if (symbol == 'W' || symbol == 'w') {
+car1.moveUp();
+				console.log("ha gayyy");
+            }
+
+            if (symbol == 'D' || symbol == 'd') {
+car1.moveRight();
+            }
+
+            if (symbol == 'S' || symbol == 's') {
+car1.moveDown();
+            }
+   
+   
+   
+   var symbol2 = event.keyCode;
+            if (symbol2 == 37 ) {
+car.moveLeft();
+            }
+
+            if (symbol2 == 38 ) {
+car.moveUp();
+            }
+
+            if (symbol2 == 39 ) {                                                    
+car.moveRight();
+            }
+
+            if (symbol2 == 40 ) {
+car.moveDown();
+    
+            }
+  
+        }
+	function animationFrame() {
+		ctx.clearRect(0, 0, ctx.canvas.width, ctx.canvas.height);
+		car.draw(ctx);
+		car1.draw(ctx);
+		requestAnimationFrame(animationFrame);
+	}
+	requestAnimationFrame(animationFrame);
+
+		
+		
+		
+		</script>
+		<img src="http://www.clker.com/cliparts/r/Z/D/N/E/w/red-car-top-view-th.png" style="display:none" />
+		</body>
+		</html>

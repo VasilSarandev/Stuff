@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Telerik\Exercisin'\TELERIK EXAMS\2011 exam\TelerikExam 20111\05. Subset Sums\bin\Debug\_05.Subset_Sums.exe.config
+C:\Users\User\Desktop\Telerik\Exercisin'\TELERIK EXAMS\2011 exam\TelerikExam 20111\05. Subset Sums\bin\Debug\_05.Subset_Sums.exe
+C:\Users\User\Desktop\Telerik\Exercisin'\TELERIK EXAMS\2011 exam\TelerikExam 20111\05. Subset Sums\bin\Debug\_05.Subset_Sums.pdb
+C:\Users\User\Desktop\Telerik\Exercisin'\TELERIK EXAMS\2011 exam\TelerikExam 20111\05. Subset Sums\obj\Debug\05. Subset Sums.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Telerik\Exercisin'\TELERIK EXAMS\2011 exam\TelerikExam 20111\05. Subset Sums\obj\Debug\_05.Subset_Sums.exe
+C:\Users\User\Desktop\Telerik\Exercisin'\TELERIK EXAMS\2011 exam\TelerikExam 20111\05. Subset Sums\obj\Debug\_05.Subset_Sums.pdb

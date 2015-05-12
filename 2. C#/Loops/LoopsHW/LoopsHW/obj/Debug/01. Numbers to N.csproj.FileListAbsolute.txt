@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Telerik\Loops HW\LoopsHW\LoopsHW\bin\Debug\LoopsHW.exe.config
+C:\Users\User\Desktop\Telerik\Loops HW\LoopsHW\LoopsHW\bin\Debug\LoopsHW.exe
+C:\Users\User\Desktop\Telerik\Loops HW\LoopsHW\LoopsHW\bin\Debug\LoopsHW.pdb
+C:\Users\User\Desktop\Telerik\Loops HW\LoopsHW\LoopsHW\obj\Debug\01. Numbers to N.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Telerik\Loops HW\LoopsHW\LoopsHW\obj\Debug\LoopsHW.exe
+C:\Users\User\Desktop\Telerik\Loops HW\LoopsHW\LoopsHW\obj\Debug\LoopsHW.pdb

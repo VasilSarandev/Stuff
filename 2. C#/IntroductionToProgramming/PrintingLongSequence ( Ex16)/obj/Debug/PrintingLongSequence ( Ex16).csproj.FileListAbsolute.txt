@@ -1,0 +1,6 @@
+C:\Users\Krasimir\Desktop\TELERIK\TELERIK HW\Programming Introduction\New folder\HelloCSharp\PrintingLongSequence ( Ex16)\bin\Debug\PrintingLongSequence ( Ex16).exe.config
+C:\Users\Krasimir\Desktop\TELERIK\TELERIK HW\Programming Introduction\New folder\HelloCSharp\PrintingLongSequence ( Ex16)\bin\Debug\PrintingLongSequence ( Ex16).exe
+C:\Users\Krasimir\Desktop\TELERIK\TELERIK HW\Programming Introduction\New folder\HelloCSharp\PrintingLongSequence ( Ex16)\bin\Debug\PrintingLongSequence ( Ex16).pdb
+C:\Users\Krasimir\Desktop\TELERIK\TELERIK HW\Programming Introduction\New folder\HelloCSharp\PrintingLongSequence ( Ex16)\obj\Debug\PrintingLongSequence ( Ex16).exe
+C:\Users\Krasimir\Desktop\TELERIK\TELERIK HW\Programming Introduction\New folder\HelloCSharp\PrintingLongSequence ( Ex16)\obj\Debug\PrintingLongSequence ( Ex16).pdb
+C:\Users\Krasimir\Desktop\TELERIK\TELERIK HW\Programming Introduction\New folder\HelloCSharp\PrintingLongSequence ( Ex16)\obj\Debug\PrintingLongSequence ( Ex16).csprojResolveAssemblyReference.cache

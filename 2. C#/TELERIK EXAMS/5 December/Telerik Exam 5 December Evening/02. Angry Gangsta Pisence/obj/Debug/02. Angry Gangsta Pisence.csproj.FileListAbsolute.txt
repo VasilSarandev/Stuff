@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Telerik\Exercisin'\TELERIK EXAMS\5 December\Telerik Exam 5 December Evening\02. Angry Gangsta Pisence\bin\Debug\_02.Angry_Gangsta_Pisence.exe.config
+C:\Users\User\Desktop\Telerik\Exercisin'\TELERIK EXAMS\5 December\Telerik Exam 5 December Evening\02. Angry Gangsta Pisence\bin\Debug\_02.Angry_Gangsta_Pisence.exe
+C:\Users\User\Desktop\Telerik\Exercisin'\TELERIK EXAMS\5 December\Telerik Exam 5 December Evening\02. Angry Gangsta Pisence\bin\Debug\_02.Angry_Gangsta_Pisence.pdb
+C:\Users\User\Desktop\Telerik\Exercisin'\TELERIK EXAMS\5 December\Telerik Exam 5 December Evening\02. Angry Gangsta Pisence\obj\Debug\_02.Angry_Gangsta_Pisence.exe
+C:\Users\User\Desktop\Telerik\Exercisin'\TELERIK EXAMS\5 December\Telerik Exam 5 December Evening\02. Angry Gangsta Pisence\obj\Debug\_02.Angry_Gangsta_Pisence.pdb
+C:\Users\User\Desktop\Telerik\Exercisin'\TELERIK EXAMS\5 December\Telerik Exam 5 December Evening\02. Angry Gangsta Pisence\obj\Debug\02. Angry Gangsta Pisence.csprojResolveAssemblyReference.cache

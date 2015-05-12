@@ -1,0 +1,35 @@
+﻿<html>
+<head>
+<title>+ or -</title>
+	<link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+<input type="text" id="one" placeholder="Real Number #1" />
+<input type="text" id="two"  placeholder="Real Number #2" />
+<input type="text" id="three" placeholder="Real Number #3" />
+<input type="button" value="Clicky Clicky" onclick="Calculate()" />
+<div id="js-console"></div>
+<script src="scripts/js-console.js"></script>
+<script>
+		function Calculate() {
+		var num1=document.getElementById('one') .value;
+		var num2=document.getElementById('two') .value;
+		var num3=document.getElementById('three') .value;
+		num1=parseInt(num1);
+		num2=parseInt(num2);
+		num3=parseInt(num3);
+		if(num1>0 && num2>0 && num3>0) {
+		jsConsole.writeLine("Product is a positive integer");
+		}
+		else {
+		if(num1<0 && num2<0 && num3<0) {
+		jsConsole.writeLine("Product is a negative integer");
+		}
+		else {
+		jsConsole.writeLine("Cant define without calculation.")
+		}
+		}
+		}
+</script>
+</body>
+</html>

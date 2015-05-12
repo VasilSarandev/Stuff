@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Telerik\Loops HW\LoopsHW\Exexexex\bin\Debug\Exexexex.exe.config
+C:\Users\User\Desktop\Telerik\Loops HW\LoopsHW\Exexexex\bin\Debug\Exexexex.exe
+C:\Users\User\Desktop\Telerik\Loops HW\LoopsHW\Exexexex\bin\Debug\Exexexex.pdb
+C:\Users\User\Desktop\Telerik\Loops HW\LoopsHW\Exexexex\obj\Debug\Exexexex.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Telerik\Loops HW\LoopsHW\Exexexex\obj\Debug\Exexexex.exe
+C:\Users\User\Desktop\Telerik\Loops HW\LoopsHW\Exexexex\obj\Debug\Exexexex.pdb

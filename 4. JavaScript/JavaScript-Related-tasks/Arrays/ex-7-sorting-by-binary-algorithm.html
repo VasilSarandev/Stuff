@@ -1,0 +1,42 @@
+﻿<html>
+<head>
+<title>Binary Search Algorithm</title>
+	<link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+<div id="js-console"></div>
+<script src="scripts/js-console.js"></script>
+<script>
+            function BinarySearch() {
+                var array = [3, 4, 5, 9, 11, 24, 44, 58, 98];
+                var min = 0;
+                var max = array.length - 1;
+                var key = 5;
+                var found = false;
+                var mid;
+                var index;
+                while (!found && min <= max) {
+                    mid = parseInt((min + max) / 2);
+                    if (array[mid] == key) {
+                        index = mid;
+                        found = true;
+                    }
+                    else if (array[mid] < key) {
+                        min = mid + 1;
+                    }
+                    else {
+                        max = mid - 1;
+                    }
+                }
+                jsConsole.writeLine("Position of the given number: " +index);
+				jsConsole.writeLine("Given Array = ");
+				for(var i=0; i<array.length; i++) {
+				jsConsole.writeLine(array[i]);
+				}
+				jsConsole.writeLine("Num to search : " +key);
+            }
+
+            BinarySearch();
+        </script>
+</body>
+</html>

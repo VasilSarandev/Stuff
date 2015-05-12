@@ -1,0 +1,3 @@
+C:\Users\User\Desktop\Telerik\Loops HW\LoopsHW\05. Calculation\bin\Debug\_05.Calculation.exe.config
+C:\Users\User\Desktop\Telerik\Loops HW\LoopsHW\05. Calculation\obj\Debug\_05.Calculation.exe
+C:\Users\User\Desktop\Telerik\Loops HW\LoopsHW\05. Calculation\obj\Debug\_05.Calculation.pdb

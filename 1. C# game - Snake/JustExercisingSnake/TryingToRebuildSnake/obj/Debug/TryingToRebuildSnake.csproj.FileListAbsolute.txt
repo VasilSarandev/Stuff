@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Telerik\Exercisin'\Snake\JustExercisingSnake\TryingToRebuildSnake\bin\Debug\TryingToRebuildSnake.exe.config
+C:\Users\User\Desktop\Telerik\Exercisin'\Snake\JustExercisingSnake\TryingToRebuildSnake\bin\Debug\TryingToRebuildSnake.exe
+C:\Users\User\Desktop\Telerik\Exercisin'\Snake\JustExercisingSnake\TryingToRebuildSnake\bin\Debug\TryingToRebuildSnake.pdb
+C:\Users\User\Desktop\Telerik\Exercisin'\Snake\JustExercisingSnake\TryingToRebuildSnake\obj\Debug\TryingToRebuildSnake.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Telerik\Exercisin'\Snake\JustExercisingSnake\TryingToRebuildSnake\obj\Debug\TryingToRebuildSnake.exe
+C:\Users\User\Desktop\Telerik\Exercisin'\Snake\JustExercisingSnake\TryingToRebuildSnake\obj\Debug\TryingToRebuildSnake.pdb

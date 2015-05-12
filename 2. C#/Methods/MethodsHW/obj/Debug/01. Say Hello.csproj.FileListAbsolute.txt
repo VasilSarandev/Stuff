@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Telerik\C#2\MethodsHW\MethodsHW\bin\Debug\MethodsHW.exe.config
+C:\Users\User\Desktop\Telerik\C#2\MethodsHW\MethodsHW\bin\Debug\MethodsHW.exe
+C:\Users\User\Desktop\Telerik\C#2\MethodsHW\MethodsHW\bin\Debug\MethodsHW.pdb
+C:\Users\User\Desktop\Telerik\C#2\MethodsHW\MethodsHW\obj\Debug\01. Say Hello.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Telerik\C#2\MethodsHW\MethodsHW\obj\Debug\MethodsHW.exe
+C:\Users\User\Desktop\Telerik\C#2\MethodsHW\MethodsHW\obj\Debug\MethodsHW.pdb

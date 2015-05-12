@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\Telerik\C#2\Numeral Systems HW\05. HexaDecimal To Binary\bin\Debug\_05.HexaDecimal_To_Binary.exe.config
+C:\Users\User\Desktop\Telerik\C#2\Numeral Systems HW\05. HexaDecimal To Binary\bin\Debug\_05.HexaDecimal_To_Binary.exe
+C:\Users\User\Desktop\Telerik\C#2\Numeral Systems HW\05. HexaDecimal To Binary\bin\Debug\_05.HexaDecimal_To_Binary.pdb
+C:\Users\User\Desktop\Telerik\C#2\Numeral Systems HW\05. HexaDecimal To Binary\obj\Debug\_05.HexaDecimal_To_Binary.exe
+C:\Users\User\Desktop\Telerik\C#2\Numeral Systems HW\05. HexaDecimal To Binary\obj\Debug\_05.HexaDecimal_To_Binary.pdb

@@ -1,0 +1,19 @@
+﻿<html>
+<head>
+	<link rel="stylesheet" href="styles/js-console.css"/>
+<title>Ex.3</title>
+</head>
+<body bgcolor="#FFFFFF">
+<input type="color" id="cb">
+<button onclick="PrintValue()">Execute Func</button>
+		<div id="js-console"></div>
+		<script src="scripts/js-console.js"></script>
+<script>
+function PrintValue() {
+var valuez = document.getElementById('cb').value;
+jsConsole.writeLine("You have chosen color : " +valuez);
+document.bgColor = valuez;
+}
+</script>
+</body>
+</html>

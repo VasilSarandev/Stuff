@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Telerik\C#2\MethodsHW\07. Reverse Num\bin\Debug\_07.Reverse_Num.exe.config
+C:\Users\User\Desktop\Telerik\C#2\MethodsHW\07. Reverse Num\bin\Debug\_07.Reverse_Num.exe
+C:\Users\User\Desktop\Telerik\C#2\MethodsHW\07. Reverse Num\bin\Debug\_07.Reverse_Num.pdb
+C:\Users\User\Desktop\Telerik\C#2\MethodsHW\07. Reverse Num\obj\Debug\07. Reverse Num.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Telerik\C#2\MethodsHW\07. Reverse Num\obj\Debug\_07.Reverse_Num.exe
+C:\Users\User\Desktop\Telerik\C#2\MethodsHW\07. Reverse Num\obj\Debug\_07.Reverse_Num.pdb

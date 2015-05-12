@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Telerik\Exercisin'\Conditional Statements HW\09. Int, Double or String\bin\Debug\_09.Int__Double_or_String.exe.config
+C:\Users\User\Desktop\Telerik\Exercisin'\Conditional Statements HW\09. Int, Double or String\bin\Debug\_09.Int__Double_or_String.exe
+C:\Users\User\Desktop\Telerik\Exercisin'\Conditional Statements HW\09. Int, Double or String\bin\Debug\_09.Int__Double_or_String.pdb
+C:\Users\User\Desktop\Telerik\Exercisin'\Conditional Statements HW\09. Int, Double or String\obj\Debug\09. Int, Double or String.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Telerik\Exercisin'\Conditional Statements HW\09. Int, Double or String\obj\Debug\_09.Int__Double_or_String.exe
+C:\Users\User\Desktop\Telerik\Exercisin'\Conditional Statements HW\09. Int, Double or String\obj\Debug\_09.Int__Double_or_String.pdb

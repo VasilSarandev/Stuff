@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Telerik\C#2\MultiDimensional Arrays HW\04. Binary Search\bin\Debug\_04.Binary_Search.exe.config
+C:\Users\User\Desktop\Telerik\C#2\MultiDimensional Arrays HW\04. Binary Search\bin\Debug\_04.Binary_Search.exe
+C:\Users\User\Desktop\Telerik\C#2\MultiDimensional Arrays HW\04. Binary Search\bin\Debug\_04.Binary_Search.pdb
+C:\Users\User\Desktop\Telerik\C#2\MultiDimensional Arrays HW\04. Binary Search\obj\Debug\04. Binary Search.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Telerik\C#2\MultiDimensional Arrays HW\04. Binary Search\obj\Debug\_04.Binary_Search.exe
+C:\Users\User\Desktop\Telerik\C#2\MultiDimensional Arrays HW\04. Binary Search\obj\Debug\_04.Binary_Search.pdb

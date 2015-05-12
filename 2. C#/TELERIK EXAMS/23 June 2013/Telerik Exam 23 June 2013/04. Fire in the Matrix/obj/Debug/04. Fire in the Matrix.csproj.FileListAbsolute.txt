@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Telerik\Exercisin'\TELERIK EXAMS\23 June 2013\Telerik Exam 23 June 2013\04. Fire in the Matrix\bin\Debug\_04.Fire_in_the_Matrix.exe.config
+C:\Users\User\Desktop\Telerik\Exercisin'\TELERIK EXAMS\23 June 2013\Telerik Exam 23 June 2013\04. Fire in the Matrix\bin\Debug\_04.Fire_in_the_Matrix.exe
+C:\Users\User\Desktop\Telerik\Exercisin'\TELERIK EXAMS\23 June 2013\Telerik Exam 23 June 2013\04. Fire in the Matrix\bin\Debug\_04.Fire_in_the_Matrix.pdb
+C:\Users\User\Desktop\Telerik\Exercisin'\TELERIK EXAMS\23 June 2013\Telerik Exam 23 June 2013\04. Fire in the Matrix\obj\Debug\04. Fire in the Matrix.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Telerik\Exercisin'\TELERIK EXAMS\23 June 2013\Telerik Exam 23 June 2013\04. Fire in the Matrix\obj\Debug\_04.Fire_in_the_Matrix.exe
+C:\Users\User\Desktop\Telerik\Exercisin'\TELERIK EXAMS\23 June 2013\Telerik Exam 23 June 2013\04. Fire in the Matrix\obj\Debug\_04.Fire_in_the_Matrix.pdb

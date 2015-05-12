@@ -1,0 +1,66 @@
+﻿<html>
+<head>
+	<link rel="stylesheet" href="styles/js-console.css"/>
+<title>Ex.1</title>
+</head>
+<body onload="OnQuerySelectorButtonClick()">
+<div> MAIN-DIV.
+	<div id="div1"> DIV 1
+		<div id="div2"> DIV 2
+			<div> DIV 3
+			</div>
+		</div>
+	</div>
+</div>
+		<div id="js-console"></div>
+		<script src="scripts/js-console.js"></script>
+<script>
+function OnGetElementsByTagNameButtonClick() {
+//making variables out of div-nodes.
+jsConsole.wrieLine("Using getElementsByTagName");
+	var count1s=0;
+	var count2s=0;
+	var count3s=0;
+	var div1 = document.getElementById('div1'); 
+	var divz = div1.getElementsByTagName('div'); //getting a list of elements inside div node
+	var maindiv = document.getElementById('main'); 
+	var divzz = maindiv.getElementsByTagName('div'); //===
+	var div2 = document.getElementById('div2');
+	var divzzz = div2.getElementsByTagName('div');
+	
+	for(var i=0; i<divz.length; i++) { //a loop to count the elements in the list 
+	count1s ++ }
+	for(var j=0; j<divzz.length; j++) { //===
+	count2s ++ }
+	for(var j=0; j<divzzz.length; j++) {
+	count3s ++ }
+jsConsole.writeLine(count2s + " divs in MAIN-DIV");
+jsConsole.writeLine(count1s + " divs in DIV 1");
+jsConsole.writeLine(count3s + " div in DIV2");
+}
+//function 2
+function OnQuerySelectorButtonClick() {
+jsConsole.writeLine("Using query selector");
+var count1=0;
+var count2=0;
+var count3=0;
+var divsInDivs = document.querySelectorAll("div div");
+for(var i=0; i<divsInDivs.length; i++) {
+count1++;
+}
+jsConsole.writeLine(count1 + " divs in MAIN-DIV");
+var divsInDiv1 = document.querySelectorAll("#div1 div");
+for(var i=0; i<divsInDiv1.length; i++) { 
+count2++;
+}
+jsConsole.writeLine(count2 + " divs in DIV-1");
+var divsInDiv2 = document.querySelectorAll("#div2 div");
+for(var i=0; i<divsInDiv2.length; i++) {
+count3++ }
+jsConsole.writeLine(count3 + " divs in DIV-2");
+}
+
+
+</script>
+</body>
+</html>

@@ -1,0 +1,20 @@
+﻿<html>
+<head>
+	<link rel="stylesheet" href="styles/js-console.css"/>
+<title>Ex.2</title>
+</head>
+<body>
+<input type="text" id="tb" placeholder="Enter a string/integer" />
+<button onclick="PrintValue()">Execute Func</button>
+		<div id="js-console"></div>
+		<script src="scripts/js-console.js"></script>
+<script>
+jsConsole.writeLine("Print the value of a text box.");
+function PrintValue() {
+
+var Valuez = document.getElementById('tb').value;
+jsConsole.writeLine(Valuez);
+}
+</script>
+</body>
+</html>

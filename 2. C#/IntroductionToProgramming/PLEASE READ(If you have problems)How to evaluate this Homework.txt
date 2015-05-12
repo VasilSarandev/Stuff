@@ -1,0 +1,6 @@
+To evaluate my Homework you must do the following.
+Use your Winrar/7Zip program to extract the ZIP archive.
+Find the file named "Introduction to Programming.sln"
+Drag it to your Visual Studio 2013 window and voala.
+My solution is opened. 
+Thank you and have a nice day.

@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Telerik\Loops HW\LoopsHW\03. Min,Max, Sum and Average\bin\Debug\_03.Min_Max__Sum_and_Average.exe.config
+C:\Users\User\Desktop\Telerik\Loops HW\LoopsHW\03. Min,Max, Sum and Average\bin\Debug\_03.Min_Max__Sum_and_Average.exe
+C:\Users\User\Desktop\Telerik\Loops HW\LoopsHW\03. Min,Max, Sum and Average\bin\Debug\_03.Min_Max__Sum_and_Average.pdb
+C:\Users\User\Desktop\Telerik\Loops HW\LoopsHW\03. Min,Max, Sum and Average\obj\Debug\03. Min,Max, Sum and Average.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Telerik\Loops HW\LoopsHW\03. Min,Max, Sum and Average\obj\Debug\_03.Min_Max__Sum_and_Average.exe
+C:\Users\User\Desktop\Telerik\Loops HW\LoopsHW\03. Min,Max, Sum and Average\obj\Debug\_03.Min_Max__Sum_and_Average.pdb

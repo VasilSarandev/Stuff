@@ -1,0 +1,26 @@
+﻿<html>
+<head>
+<title>Initializing Arrays</title>
+	<link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+<button onclick="MyFunc()">Execute</button>
+<div id="js-console"></div>
+<script src="scripts/js-console.js"></script>
+<script>
+function MyFunc() {
+			var arr1=["A","B","C","D","E"];
+			var arr2=["A","B","C","F","G","H"];
+			var resultArray=[];
+			jsConsole.writeLine("Array 1 = " +arr1);
+			jsConsole.writeLine("Array 2 = " +arr2);
+			for (var i=0; i<arr1.length; i++) 
+				for(var br=0; br<arr2.length; br++) 
+					if(arr1[i]==arr2[br]) {
+					resultArray.push(arr1[i]);
+					}
+					jsConsole.writeLine("Result Array = " +resultArray);
+					}
+</script>
+</body>
+</html>

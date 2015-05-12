@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Telerik\Exercisin'\TELERIK EXAMS\6 DECEMBER 2013 Evening\Telerik Exam 6 Dec 2013 Evening\02. Nightmare on Code Street\bin\Debug\_02.Nightmare_on_Code_Street.exe.config
+C:\Users\User\Desktop\Telerik\Exercisin'\TELERIK EXAMS\6 DECEMBER 2013 Evening\Telerik Exam 6 Dec 2013 Evening\02. Nightmare on Code Street\bin\Debug\_02.Nightmare_on_Code_Street.exe
+C:\Users\User\Desktop\Telerik\Exercisin'\TELERIK EXAMS\6 DECEMBER 2013 Evening\Telerik Exam 6 Dec 2013 Evening\02. Nightmare on Code Street\bin\Debug\_02.Nightmare_on_Code_Street.pdb
+C:\Users\User\Desktop\Telerik\Exercisin'\TELERIK EXAMS\6 DECEMBER 2013 Evening\Telerik Exam 6 Dec 2013 Evening\02. Nightmare on Code Street\obj\Debug\02. Nightmare on Code Street.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Telerik\Exercisin'\TELERIK EXAMS\6 DECEMBER 2013 Evening\Telerik Exam 6 Dec 2013 Evening\02. Nightmare on Code Street\obj\Debug\_02.Nightmare_on_Code_Street.exe
+C:\Users\User\Desktop\Telerik\Exercisin'\TELERIK EXAMS\6 DECEMBER 2013 Evening\Telerik Exam 6 Dec 2013 Evening\02. Nightmare on Code Street\obj\Debug\_02.Nightmare_on_Code_Street.pdb

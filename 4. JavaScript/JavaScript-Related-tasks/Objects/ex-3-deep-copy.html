@@ -1,0 +1,72 @@
+﻿<html>
+<head>
+<title>Removing elements with a given value from array</title>
+	<link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+<div id="js-console"></div>
+<script src="scripts/js-console.js"></script>
+<script>
+//Solution Logic : Make array,number,object. 
+//TO DO:  Function to make a deep copy. 
+//Ideas for function : check the type of object, if it's an array use .push method
+//else if object = copy properties in another object (Clone object) 
+// else (number) = just copy value.
+
+//Solution starts.
+
+//Making one object.
+	var obj = {
+		point: {
+			x: 3,
+			y: 7
+		},
+		point2: {
+			x: 4,
+			y: 3
+		}
+	}
+//Making one number.
+	var num=5;
+
+//Making one array.
+	var numz=[0,1,2,3,4,5,6,7];
+
+//making copy of object
+var objCopy=getDeepCopy(obj);
+	//test
+jsConsole.writeLine("Initial x of point1= " +objCopy.point.x);
+jsConsole.writeLine("Deep copy of object's x of point1= " +obj.point.x);
+//making copy of number
+var numCopy=getDeepCopy(num);
+	//test
+jsConsole.writeLine("Initial number = " +num);
+jsConsole.writeLine("Copy = " +numCopy);
+
+//making copy of array
+var numzCopy=getDeepCopy(numz);
+	//test
+jsConsole.writeLine("Initial array = " +numz);
+jsConsole.writeLine("Copy = " +numzCopy);
+
+//time to make the function getDeepCopy()
+
+function getDeepCopy(InitialObj) {
+var DeepCopy= {} ;
+	if(typeof InitialObj!="object") { //number
+DeepCopy=InitialObj;
+}
+	if(typeof InitialObj=="array") { //array
+for (var i=0; i<InitialArray.length; i++) 
+DeepCopy.push(InitialArray[i]);
+}
+	if(typeof InitialObj=="object")  {//object :(
+for(j in InitialObj)
+DeepCopy[j]=InitialObj[j];
+return DeepCopy;
+}
+}
+</script>
+</body>
+</html>
+

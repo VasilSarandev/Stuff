@@ -1,0 +1,92 @@
+﻿<!DOCTYPE html>
+	<head>
+		<style>
+		</style>
+	</head>
+<body>
+	
+<form id="todo">
+<h1>Create a TODO list with the following UI controls</h1>
+<h2>Form Input for new item</h2>
+<h2>Button for adding the new Item</h2>
+<h2>Button for deleting some Item</h2>
+<h2>Show and Hide Button</h2>
+<input type="text" id="submitValue" placeholder="Enter value" />
+<button type="submit" id="add">Add the entered Item</button>
+<button id="remove">Remove the entered item</button>
+<button id="showHide">Show/Hide</button>
+</form>
+
+<div>
+<ul id="toDoList">
+<li> Some element of list </li>
+<li> Some element of list </li>
+<li> Some element of list </li>
+<li> Some element of list </li>
+<li> Some element of list </li>
+<li> Some element of list </li>
+</ul>
+</div>
+
+
+<script>
+// gettin' the list
+var List = document.querySelector("#toDoList");
+
+//attaching events to all buttons.
+//Add
+var addButton = document.getElementById("add");
+addButton.addEventListener("click", addNewListItem, false);
+
+// remove item
+var removeItemButton = document.getElementById("remove");
+removeItemButton.addEventListener("click", removeListItem, false);
+
+//showHideButton
+var showHideButton = document.getElementById("showHide");
+showHideButton.addEventListener("click", showHide,false);
+
+//Add list item function . using append child
+
+function addNewListItem() {
+event.preventDefault();
+var listItem = document.createElement("li");
+
+var SubmitValue = document.getElementById("submitValue").value;
+listItem.innerHTML = SubmitValue;
+List.appendChild(listItem);
+}
+function showHide() {
+//get all elements through any selector, if display style aint none, make it none. if it is(click after we have made them invisible) => make it visible
+event.preventDefault();
+var elementsToShowHide = document.querySelectorAll("ul>li");
+
+	for(var i=0; i<elementsToShowHide.length; i++) {
+if (elementsToShowHide[i].style.display !== "none") {
+elementsToShowHide[i].style.display = "none";
+}
+		else {
+	elementsToShowHide[i].style.display = "list-item";
+		}
+	}
+}
+function removeListItem() {
+event.preventDefault();
+var SubmitValueToRemove = document.getElementById("submitValue").value;
+var elementsToRemove = document.querySelectorAll("ul li");
+
+	//for loop to remove elements with given value
+	
+for (var i=0; i<elementsToRemove.length; i++) {
+if (elementsToRemove[i].innerText == SubmitValueToRemove) {
+	elementsToRemove[i].parentNode.removeChild(elementsToRemove[i]);
+}
+}
+}
+
+
+
+
+</script>
+</body>
+</html>

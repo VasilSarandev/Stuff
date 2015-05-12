@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Telerik\Loops HW\LoopsHW\18. Trail Zeros\bin\Debug\_18.Trail_Zeros.exe.config
+C:\Users\User\Desktop\Telerik\Loops HW\LoopsHW\18. Trail Zeros\bin\Debug\_18.Trail_Zeros.exe
+C:\Users\User\Desktop\Telerik\Loops HW\LoopsHW\18. Trail Zeros\bin\Debug\_18.Trail_Zeros.pdb
+C:\Users\User\Desktop\Telerik\Loops HW\LoopsHW\18. Trail Zeros\obj\Debug\18. Trail Zeros.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Telerik\Loops HW\LoopsHW\18. Trail Zeros\obj\Debug\_18.Trail_Zeros.exe
+C:\Users\User\Desktop\Telerik\Loops HW\LoopsHW\18. Trail Zeros\obj\Debug\_18.Trail_Zeros.pdb

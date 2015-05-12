@@ -1,0 +1,44 @@
+﻿<html>
+<head>
+	<link rel="stylesheet" href="styles - Copy/js-console.css"/>
+<title>Ex.1</title>
+</head>
+<body onload="OnQuerySelectorButtonClick()">
+<div> MAIN-DIV.
+	<div id="div1"> DIV 1
+		<div id="div2"> DIV 2
+			<div> DIV 3
+			</div>
+		</div>
+	</div>
+</div>
+		<div id="js-console"></div>
+		<script src="scripts/js-console.js"></script>
+<script>
+
+//function 2
+function OnQuerySelectorButtonClick() {
+jsConsole.writeLine("Using query selector");
+var count1=0;
+var count2=0;
+var count3=0;
+var divsInDivs = document.querySelectorAll("div div");
+for(var i=0; i<divsInDivs.length; i++) {
+count1++;
+}
+jsConsole.writeLine(count1 + " divs in MAIN-DIV");
+var divsInDiv1 = document.querySelectorAll("#div1 div");
+for(var i=0; i<divsInDiv1.length; i++) { 
+count2++;
+}
+jsConsole.writeLine(count2 + " divs in DIV-1");
+var divsInDiv2 = document.querySelectorAll("#div2 div");
+for(var i=0; i<divsInDiv2.length; i++) {
+count3++ }
+jsConsole.writeLine(count3 + " divs in DIV-2");
+}
+
+
+</script>
+</body>
+</html>

@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Telerik\Exercisin'\TELERIK EXAMS\6 DECEMBER 2013 Morning\TelerikExam\03. X-Expression\bin\Debug\_03.X_Expression.exe.config
+C:\Users\User\Desktop\Telerik\Exercisin'\TELERIK EXAMS\6 DECEMBER 2013 Morning\TelerikExam\03. X-Expression\bin\Debug\_03.X_Expression.exe
+C:\Users\User\Desktop\Telerik\Exercisin'\TELERIK EXAMS\6 DECEMBER 2013 Morning\TelerikExam\03. X-Expression\bin\Debug\_03.X_Expression.pdb
+C:\Users\User\Desktop\Telerik\Exercisin'\TELERIK EXAMS\6 DECEMBER 2013 Morning\TelerikExam\03. X-Expression\obj\Debug\_03.X_Expression.exe
+C:\Users\User\Desktop\Telerik\Exercisin'\TELERIK EXAMS\6 DECEMBER 2013 Morning\TelerikExam\03. X-Expression\obj\Debug\_03.X_Expression.pdb
+C:\Users\User\Desktop\Telerik\Exercisin'\TELERIK EXAMS\6 DECEMBER 2013 Morning\TelerikExam\03. X-Expression\obj\Debug\Interop.MSScriptControl.dll
+C:\Users\User\Desktop\Telerik\Exercisin'\TELERIK EXAMS\6 DECEMBER 2013 Morning\TelerikExam\03. X-Expression\obj\Debug\03. X-Expression.csproj.ResolveComReference.cache

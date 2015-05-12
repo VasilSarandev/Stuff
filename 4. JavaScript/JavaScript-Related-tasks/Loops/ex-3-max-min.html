@@ -1,0 +1,50 @@
+﻿<html>
+<head>
+<title>Max and Min</title>
+	<link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+<h1>Find Max and Min in a sequence of numbers.</h1>
+<input type="button" value="Go." onclick="Calculate()" />
+<div id="js-console"></div>
+<script src="scripts/js-console.js"></script>
+<script>
+		function Calculate() {
+var number;
+var maxValue = 0;
+ var minValue = 0;
+ var nomer = 1;
+ var promptMsg;
+ var numbersStr = "";
+
+
+		do {
+promptMsg = 
+"Please enter integer number" +nomer +" and click ok.If you have finished entering integers, please click Cancel.";
+number = prompt(promptMsg, "");
+if(number == parseFloat(number)) {
+	number = parseFloat(number);
+if (nomer == 1) {
+	minValue = maxValue = number;
+}
+else if(minValue > number) {
+		minValue = number;
+} 
+else if(number > maxValue) {
+		maxValue = number;
+}
+	numbersStr += number + ",  ";
+	nomer++;
+}
+	else if (number != null) {
+		alert("Please enter a valid integer!")
+}
+}
+while(number != null);
+	jsConsole.writeLine("max number is " +maxValue);
+	jsConsole.writeLine("min number is " +minValue);
+	jsConsole.writeLine("Entered integers " +numbersStr);
+	}
+</script>
+</body>
+</html>

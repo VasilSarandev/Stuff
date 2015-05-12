@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Coffee Vending Machine", "Telerik Exam 23 June 2013\01. Coffee Vending Machine.csproj", "{1C34B79C-DAAB-4ED1-8468-BCE51D4F3665}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Drunkeen Numbers", "02. Drunkeen Numbers\02. Drunkeen Numbers.csproj", "{95206CEE-B088-41AD-A97C-C30DB8A61EE2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Bullz and Cowz", "03. Bullz and Cowz\03. Bullz and Cowz.csproj", "{C1C38A41-476E-4E26-BE85-ECD9D2712EAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Card Wars Batka", "04. Card Wars Batka\04. Card Wars Batka.csproj", "{3553C42E-9255-4589-9653-3B554F433303}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C34B79C-DAAB-4ED1-8468-BCE51D4F3665}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C34B79C-DAAB-4ED1-8468-BCE51D4F3665}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C34B79C-DAAB-4ED1-8468-BCE51D4F3665}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C34B79C-DAAB-4ED1-8468-BCE51D4F3665}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95206CEE-B088-41AD-A97C-C30DB8A61EE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95206CEE-B088-41AD-A97C-C30DB8A61EE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95206CEE-B088-41AD-A97C-C30DB8A61EE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95206CEE-B088-41AD-A97C-C30DB8A61EE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1C38A41-476E-4E26-BE85-ECD9D2712EAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1C38A41-476E-4E26-BE85-ECD9D2712EAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1C38A41-476E-4E26-BE85-ECD9D2712EAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1C38A41-476E-4E26-BE85-ECD9D2712EAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3553C42E-9255-4589-9653-3B554F433303}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3553C42E-9255-4589-9653-3B554F433303}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3553C42E-9255-4589-9653-3B554F433303}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3553C42E-9255-4589-9653-3B554F433303}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

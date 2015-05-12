@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Telerik\Exercisin'\TELERIK EXAMS\23 June 2013\Telerik Exam 23 June 2013\02. Drunken Numbers\bin\Debug\_02.Drunken_Numbers.exe.config
+C:\Users\User\Desktop\Telerik\Exercisin'\TELERIK EXAMS\23 June 2013\Telerik Exam 23 June 2013\02. Drunken Numbers\bin\Debug\_02.Drunken_Numbers.exe
+C:\Users\User\Desktop\Telerik\Exercisin'\TELERIK EXAMS\23 June 2013\Telerik Exam 23 June 2013\02. Drunken Numbers\bin\Debug\_02.Drunken_Numbers.pdb
+C:\Users\User\Desktop\Telerik\Exercisin'\TELERIK EXAMS\23 June 2013\Telerik Exam 23 June 2013\02. Drunken Numbers\obj\Debug\02. Drunken Numbers.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Telerik\Exercisin'\TELERIK EXAMS\23 June 2013\Telerik Exam 23 June 2013\02. Drunken Numbers\obj\Debug\_02.Drunken_Numbers.exe
+C:\Users\User\Desktop\Telerik\Exercisin'\TELERIK EXAMS\23 June 2013\Telerik Exam 23 June 2013\02. Drunken Numbers\obj\Debug\_02.Drunken_Numbers.pdb

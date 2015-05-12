@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Telerik\C#2\Numeral Systems HW\09. Binary Floating Point\bin\Debug\_09.Binary_Floating_Point.exe.config
+C:\Users\User\Desktop\Telerik\C#2\Numeral Systems HW\09. Binary Floating Point\bin\Debug\_09.Binary_Floating_Point.exe
+C:\Users\User\Desktop\Telerik\C#2\Numeral Systems HW\09. Binary Floating Point\bin\Debug\_09.Binary_Floating_Point.pdb
+C:\Users\User\Desktop\Telerik\C#2\Numeral Systems HW\09. Binary Floating Point\obj\Debug\09. Binary Floating Point.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Telerik\C#2\Numeral Systems HW\09. Binary Floating Point\obj\Debug\_09.Binary_Floating_Point.exe
+C:\Users\User\Desktop\Telerik\C#2\Numeral Systems HW\09. Binary Floating Point\obj\Debug\_09.Binary_Floating_Point.pdb

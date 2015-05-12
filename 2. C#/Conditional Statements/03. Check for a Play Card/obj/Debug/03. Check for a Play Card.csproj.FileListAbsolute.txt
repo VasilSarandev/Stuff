@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Telerik\Exercisin'\Conditional Statements HW\03. Check for a Play Card\bin\Debug\_03.Check_for_a_Play_Card.exe.config
+C:\Users\User\Desktop\Telerik\Exercisin'\Conditional Statements HW\03. Check for a Play Card\bin\Debug\_03.Check_for_a_Play_Card.exe
+C:\Users\User\Desktop\Telerik\Exercisin'\Conditional Statements HW\03. Check for a Play Card\bin\Debug\_03.Check_for_a_Play_Card.pdb
+C:\Users\User\Desktop\Telerik\Exercisin'\Conditional Statements HW\03. Check for a Play Card\obj\Debug\03. Check for a Play Card.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Telerik\Exercisin'\Conditional Statements HW\03. Check for a Play Card\obj\Debug\_03.Check_for_a_Play_Card.exe
+C:\Users\User\Desktop\Telerik\Exercisin'\Conditional Statements HW\03. Check for a Play Card\obj\Debug\_03.Check_for_a_Play_Card.pdb

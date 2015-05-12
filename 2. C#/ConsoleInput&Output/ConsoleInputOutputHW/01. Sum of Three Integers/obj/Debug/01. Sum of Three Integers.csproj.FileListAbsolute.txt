@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\Telerik\ConsoleInput&Output HW\ConsoleInputOutputHW\01. Sum of Three Integers\bin\Debug\_01.Sum_of_Three_Integers.exe.config
+C:\Users\User\Desktop\Telerik\ConsoleInput&Output HW\ConsoleInputOutputHW\01. Sum of Three Integers\obj\Debug\_01.Sum_of_Three_Integers.exe
+C:\Users\User\Desktop\Telerik\ConsoleInput&Output HW\ConsoleInputOutputHW\01. Sum of Three Integers\obj\Debug\_01.Sum_of_Three_Integers.pdb
+C:\Users\User\Desktop\Telerik\ConsoleInput&Output HW\ConsoleInputOutputHW\01. Sum of Three Integers\bin\Debug\_01.Sum_of_Three_Integers.exe
+C:\Users\User\Desktop\Telerik\ConsoleInput&Output HW\ConsoleInputOutputHW\01. Sum of Three Integers\bin\Debug\_01.Sum_of_Three_Integers.pdb

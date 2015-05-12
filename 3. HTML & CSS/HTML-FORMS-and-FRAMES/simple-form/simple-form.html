@@ -1,0 +1,80 @@
+﻿<html>
+<head>
+<title>Last Name</title>
+<style>
+table,th,td{
+border:1px solid cyan;
+}
+hh{
+align="right";
+font-weight:bold;
+}
+</style>
+</head>
+<body>
+<form method="post" action="index.php">
+	<table cellspacing="0" cellpadding="4" width="600px" height="600px">
+		<tr>
+			<td align="right"><strong>Last Name</strong></td>
+			<td colspan="3"><input type="text" name="Last-Name" value="Nakov" /></td>
+		</tr>
+		<tr>
+			<td align="right"><strong>Fist Name</strong></td>
+			<td colspan="3"><input type="text" name="First-Name" value="Svetlin" /></td>
+		</tr>
+		<tr>
+			<td align="right"><strong>Adress</strong></td>
+			<td colspan="3"><textarea name="Adress">17 Hristo Botev Str. floor 3, apt.12</textarea></td>
+		</tr>
+		<tr>
+			<td align="right"><strong>City</strong></td>
+			<td><input type="text" style="width:300px" name="City" value="Kaspichan"/></td>
+			<td style="width:30px">State</td>
+			<td style="width:60px"><input style="width:90%" type="text" name="State"/></td>
+		</tr>
+		<tr>
+			<td align="right"><strong>Zip/Postal Code</strong></td>
+			<td colspan="3"><input type="text" name="Zip/Postal Code" value="9325" /></td>
+		</tr>
+		<tr>
+			<td align="right"><strong>Country</strong></td>
+			<td colspan="3"><select name="Country"><option value="Value 1" selected="selected">Bulgaria</option>
+			<option value="Value 2">Greece</option>
+			<option value="Value 3">Romania</option>
+			</select>
+			</td>
+		</tr>
+		<tr>
+			<td align="right"><strong>Phone (country code, area code, number)</strong></td>
+			<td colspan="3">(<input type="text" style="width:60px" name="code" value="+359"/>)<input type="text" style="width:50px" name="area" value="88"/>-<input type="text" name="phone" value="8334343"/>
+		</tr>
+		<tr>
+			<td align="right"><strong>Email</strong></td>
+			<td colspan="3"><input type="email" name="email" value="nakov@kaspichan.org"/></td>
+		</tr>
+		<tr>
+			<td align="right"><strong>Birth date</strong></td>
+			<td colspan="3">Month<input type="text" style="width:20px" name="month" value="06"/>Day<input type="text" style="width:20px" name="Day" value="14"/>Year(4 digit)<input type="text" name="year" style="width:40px"/></td>
+		</tr>
+		<tr>
+			<td align="right"><strong>Starting date</strong></td>
+			<td colspan="3">
+			<input type="radio" name="st-date" value="Summer 2006"/>Summer 2006
+			<input type="radio" name="st-date" value="Spring 2006"/>Spring 2006
+			</td>
+		</tr>
+		<tr>
+			<td align="right"><strong>Comments/Questions</strong></td>
+			<td colspan="3"><textarea name="c/q" style="width:94%;height:100px;">Please send me more information about the lodging.</textarea></td>
+		</tr>
+		<tr>
+			<td colspan="4" style="background:#00ffff"><center><input type="submit" name="submit" value="Submit"/><input type="reset" name="reset" value="Clear This Form"/></center></td>
+		</tr>
+		<p>! Тъй като бутоните са със зададен "value" , reset бутонът ги връща към "value" стойността, работи по предназначение само за полетата, в които няма зададен "value" ! :)</p>
+</form>
+</body>
+</html>
+		
+		
+		
+		

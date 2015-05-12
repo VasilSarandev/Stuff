@@ -1,0 +1,46 @@
+﻿<html>
+<head>
+<title>Bigger than Neighbours</title>
+	<link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+<h1> Here's the given array [1,2,3,1,4,3,5,4,9,7,6,4,4,3,2,1,1,1] </h1>
+<h2> Choose a index of it so we can check for you if it's bigger than it's two neighbours.</h2>
+<input type="text" placeholder="Enter index" id="tb" />
+<button onclick="MyFunc()">Execute Function</button>
+<div id="js-console"></div>
+<script src="scripts/js-console.js"></script>
+<script> 
+		function MyFunc() {
+		var MyArray=[1,2,3,1,4,3,5,4,9,7,6,4,4,3,2,1,1,1];
+		var index=document.getElementById('tb').value;
+		var Bigger=false;
+		index=parseInt(index);
+		if (index>MyArray.length -1 || index<0 || isNaN(index))
+		{
+		jsConsole.writeLine("Not a valid index.");
+		}
+		else if(index==0) {
+			if(MyArray[index]>MyArray[index +1]) {
+			Bigger=true;
+			}
+			jsConsole.writeLine("The Number with positon " +index +"  Has only 1 neighbour. Is the integer bigger than it's neighbour ? " +Bigger);
+			}
+		else if(index==MyArray.length -1) {
+		if(MyArray[index]>MyArray[index -1]) {
+		Bigger=true;
+		}
+		jsConsole.writeLine("The Number with positon " +index +"  Has only 1 neighbour. Is the integer bigger than it's neighbour ? " +Bigger);
+		}
+		else if(MyArray[index]>MyArray[index-1] && MyArray[index]>MyArray[index+1])
+		{
+		Bigger=true;
+		jsConsole.writeLine("The Number with position " +index +"  Has 2 neighbours. Is the integer bigger than both of it's neighbours ? " +Bigger);
+		}
+		else {
+		jsConsole.writeLine("The Number with position " +index +"  Has 2 neighbours. Is the integer bigger than both of it's neighbours ? " +Bigger);
+		}
+		}
+</script>
+</body>
+</html>

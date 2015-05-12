@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\Telerik\C#2\Using Classes and Objects\03. Day Of The Week\bin\Debug\_03.Day_Of_The_Week.exe.config
+C:\Users\User\Desktop\Telerik\C#2\Using Classes and Objects\03. Day Of The Week\bin\Debug\_03.Day_Of_The_Week.exe
+C:\Users\User\Desktop\Telerik\C#2\Using Classes and Objects\03. Day Of The Week\bin\Debug\_03.Day_Of_The_Week.pdb
+C:\Users\User\Desktop\Telerik\C#2\Using Classes and Objects\03. Day Of The Week\obj\Debug\_03.Day_Of_The_Week.exe
+C:\Users\User\Desktop\Telerik\C#2\Using Classes and Objects\03. Day Of The Week\obj\Debug\_03.Day_Of_The_Week.pdb

@@ -1,0 +1,49 @@
+﻿<html>
+<head>
+<title>Greatest of 5</title>
+	<link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+<input type="text" id="tb1" placeholder="Enter Integer 1." />
+<input type="text" id="tb2" placeholder="Enter Integer 2." />
+<input type="text" id="tb3" placeholder="Enter Integer 3." />
+<input type="text" id="tb4" placeholder="Enter Integer 4." />
+<input type="text" id="tb5" placeholder="Enter Integer 5." />
+<input type="button" value="Find out." onclick="Calculate()" />
+<div id="js-console"></div>
+<script src="scripts/js-console.js"></script>
+	<script>
+		function Calculate() {
+			var num1=document.getElementById('tb1').value;
+			var num2=document.getElementById('tb2').value;
+			var num3=document.getElementById('tb3').value;
+			var num4=document.getElementById('tb4').value;
+			var num5=document.getElementById('tb5').value;
+			var greatest=0;
+			if(num1>num2 && num1>num3 && num1>num4 && num1>num5){
+			greatest=num1;
+			jsConsole.writeLine("Biggest is" +" " +greatest)
+			}
+			else if(num2>num1 && num2>num3 && num2>num4 && num2>num5){
+			greatest=num2;
+			jsConsole.writeLine("Biggest is" +" " +greatest)
+			}
+			else if(num3>num1 && num3>num2 && num3>num4 && num3>num5){
+			greatest=num3;
+			jsConsole.writeLine("Biggest is" +" " +greatest)
+			}
+			else if(num4>num1 && num4>num2 && num4>num3 && num4>num5){
+			greatest=num4;
+			jsConsole.writeLine("Biggest is" +" " +greatest)
+			}
+			else if(num5>num1 && num5>num2 && num5>num3 && num5>num4){
+			greatest=num5;
+			jsConsole.writeLine("Biggest is" +" " +greatest)
+			}
+			else{
+			jsConsole.writeLine("Numbers are equal.")
+			}
+		}
+	</script>
+</body>
+</html>

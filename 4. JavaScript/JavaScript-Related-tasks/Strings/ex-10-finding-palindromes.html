@@ -1,0 +1,35 @@
+﻿<html>
+<head>
+<title>Finding polindromes</title>
+	<link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+<input type="text" style="width:350px" placeholder="Enter some text with polindromes" id="tb" />
+<button onclick="FindPolindromez()">Find Polindromes</button>
+<div id="js-console"></div>
+<script src="scripts/js-console.js"></script>
+<script>
+function  FindPolindromez() {
+var text=document.getElementById('tb').value;
+jsConsole.writeLine("Given text : " +text);
+text=text.toLowerCase();
+var ReverseWordsString= '' ;
+var counter=0;
+var WordsArr= text.split(" ");
+for(var i=0; i<WordsArr.length; i++) {
+	for(var j=WordsArr[i].length -1; j >= 0; j--) {
+ReverseWordsString+=WordsArr[i][j];
+if(WordsArr[i]==ReverseWordsString) {
+counter++;
+jsConsole.writeLine("Polyndrome #" +counter);
+jsConsole.writeLine(WordsArr[i]);
+ReverseWordsString= '';
+}
+}
+}
+}
+
+
+</script>
+</body>
+</html>

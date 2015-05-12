@@ -1,0 +1,5 @@
+C:\Users\Krasimir\Desktop\TELERIK\TELERIK HW\DataTypesVariables\PrimitiveDataTypesAndVariablesHW\ComparingFloats ( Ex13)\bin\Debug\ComparingFloats ( Ex13).exe.config
+C:\Users\Krasimir\Desktop\TELERIK\TELERIK HW\DataTypesVariables\PrimitiveDataTypesAndVariablesHW\ComparingFloats ( Ex13)\bin\Debug\ComparingFloats ( Ex13).exe
+C:\Users\Krasimir\Desktop\TELERIK\TELERIK HW\DataTypesVariables\PrimitiveDataTypesAndVariablesHW\ComparingFloats ( Ex13)\bin\Debug\ComparingFloats ( Ex13).pdb
+C:\Users\Krasimir\Desktop\TELERIK\TELERIK HW\DataTypesVariables\PrimitiveDataTypesAndVariablesHW\ComparingFloats ( Ex13)\obj\Debug\ComparingFloats ( Ex13).exe
+C:\Users\Krasimir\Desktop\TELERIK\TELERIK HW\DataTypesVariables\PrimitiveDataTypesAndVariablesHW\ComparingFloats ( Ex13)\obj\Debug\ComparingFloats ( Ex13).pdb

@@ -1,0 +1,6 @@
+1. Microsoft Visual Studio is an integrated development environment (IDE) from Microsoft. It is used to develop computer programs for Microsoft Windows, as well as web sites, web applications and web services. Visual Studio uses Microsoft software development platforms such as Windows API, Windows Forms, Windows Presentation Foundation, Windows Store and Microsoft Silverlight. It can produce both native code and managed code.
+2. JetBrains Webstorm is my all-time personal favourite for developping web SPA applications and HTML5/CSS or JADE/Stylus websites because it has an IntelliSense for every possible language you can imagine. For some stuff you have to simply download an addon which is made right through the IDE (for example i had to download one for NodeJS intellisense.)
+3.  CodeLite
+An Open-Source, cross-platform IDfor C+ and C++ coding languages, CodeLite works on all major platforms. CodeLite offers a variety of features, including two built-in completion engines, compilers, refactoring, code navigation and more.
+4. Code::Blocks
+This is the IDE we all used in school for developping C++ and C applications. (Well... im still in  school so if you are older you might have used another one.) It's functions are quite limited by my opinion but at least it's created in C++ and is open-source. Free of course.

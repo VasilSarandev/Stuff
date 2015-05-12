@@ -1,0 +1,45 @@
+﻿<html>
+<head>
+<title>Planar Coordinate System</title>
+	<link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+<div id="js-console"></div>
+<script src="scripts/js-console.js"></script>
+<script>
+	function getPoint(x,y) {
+		return{x: x, y: y};
+	}
+	function getLine(point1,point2) {
+		return{pointA: point1, pointB: point2};
+	}
+	function CalculateDistance(point1,point2) {
+		return parseInt(Math.abs(point1.x-point2.x) * Math.abs(point1.x - point2.x) + Math.abs(point1.y-point2.y) * Math.abs(point1.y-point2.y));
+		}
+	function IgotThatTriangleForYa(line1,line2,line3) {
+	var a = CalculateDistance(line1.pointA, line1.pointB);
+	var b = CalculateDistance(line2.pointA, line2.pointB);
+	var c = CalculateDistance(line3.pointA, line3.pointB);
+	if (a + b > c && a + c > b && b + c > a) {
+		jsConsole.writeLine("Forming a triangle possible must be");
+	} 
+else {
+jsConsole.writeLine("Forming a triangle impossible must be");
+}
+}
+var p1 = getPoint(1,2);
+var p2 = getPoint(2,2);
+var p3 = getPoint(3,1);
+var l1 =  getLine(p1,p2);
+var l2 = getLine(p1,p3);
+var l3= getLine(p2,p3);
+jsConsole.writeLine("Point 1 : (1,2)");
+jsConsole.writeLine("Point 2 : (2,2)");
+jsConsole.writeLine("Point 3 : (3,1)" );
+var dist= CalculateDistance(p1,p2);
+jsConsole.writeLine("Distance between two points (point 1 and point 2) " +dist);
+IgotThatTriangleForYa(l1,l2,l3);
+
+</script>
+</body>
+</html>

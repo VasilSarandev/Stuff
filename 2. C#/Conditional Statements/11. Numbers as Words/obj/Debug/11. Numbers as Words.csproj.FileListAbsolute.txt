@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Telerik\Exercisin'\Conditional Statements HW\11. Numbers as Words\bin\Debug\_11.Numbers_as_Words.exe.config
+C:\Users\User\Desktop\Telerik\Exercisin'\Conditional Statements HW\11. Numbers as Words\bin\Debug\_11.Numbers_as_Words.exe
+C:\Users\User\Desktop\Telerik\Exercisin'\Conditional Statements HW\11. Numbers as Words\bin\Debug\_11.Numbers_as_Words.pdb
+C:\Users\User\Desktop\Telerik\Exercisin'\Conditional Statements HW\11. Numbers as Words\obj\Debug\_11.Numbers_as_Words.exe
+C:\Users\User\Desktop\Telerik\Exercisin'\Conditional Statements HW\11. Numbers as Words\obj\Debug\_11.Numbers_as_Words.pdb
+C:\Users\User\Desktop\Telerik\Exercisin'\Conditional Statements HW\11. Numbers as Words\obj\Debug\11. Numbers as Words.csprojResolveAssemblyReference.cache

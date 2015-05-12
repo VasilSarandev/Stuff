@@ -1,0 +1,16 @@
+﻿.list{
+overflow:hidden;
+max-height: 1em;
+-webkit-transition: max-height 2s ease-out;
+-moz-transition: max-height 2s ease-out;
+-ms-transition: max-height 2s ease-out;
+-o-transition: max-height 2s ease-out;
+transition: max-height 2s ease-out;
+}
+.list:hover {max-height: 10em;}
+.list dd{
+margin-left: 1em;
+color: #gray;
+}
+.list a hover{text-decoration:underline}
+

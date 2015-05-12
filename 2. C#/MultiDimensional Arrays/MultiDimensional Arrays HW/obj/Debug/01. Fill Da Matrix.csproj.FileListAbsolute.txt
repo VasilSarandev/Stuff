@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Telerik\C#2\MultiDimensional Arrays HW\MultiDimensional Arrays HW\bin\Debug\MultiDimensional Arrays HW.exe.config
+C:\Users\User\Desktop\Telerik\C#2\MultiDimensional Arrays HW\MultiDimensional Arrays HW\bin\Debug\MultiDimensional Arrays HW.exe
+C:\Users\User\Desktop\Telerik\C#2\MultiDimensional Arrays HW\MultiDimensional Arrays HW\bin\Debug\MultiDimensional Arrays HW.pdb
+C:\Users\User\Desktop\Telerik\C#2\MultiDimensional Arrays HW\MultiDimensional Arrays HW\obj\Debug\01. Fill Da Matrix.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Telerik\C#2\MultiDimensional Arrays HW\MultiDimensional Arrays HW\obj\Debug\MultiDimensional Arrays HW.exe
+C:\Users\User\Desktop\Telerik\C#2\MultiDimensional Arrays HW\MultiDimensional Arrays HW\obj\Debug\MultiDimensional Arrays HW.pdb

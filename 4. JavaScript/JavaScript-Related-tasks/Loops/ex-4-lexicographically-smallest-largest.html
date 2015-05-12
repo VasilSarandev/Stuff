@@ -1,0 +1,29 @@
+﻿<html>
+<head>
+	<link href="styles/js-console.css" rel="stylesheet" />
+<title>Smallest and Largest</title>
+</head>
+<body>
+<button onclick="Myfunc()">Execute</button>
+<div id="js-console"></div>
+<script src="scripts/js-console.js"></script>
+<script>
+function Myfunc() {
+		var arr1 = [window, navigator, document];
+
+for(var i = 0; i<3; i++){
+	var izhod
+	var arr;
+for(var property in arr1[i]){
+	izhod+= property+" ";
+}
+arr = izhod.split(" ");
+arr.sort();
+	izhod = "Min: "+arr[1]+";\nMax: "+arr[arr.length-1]+";";
+var id = "output" + (i+1);
+		jsConsole.writeLine(izhod);
+		}
+}
+</script>
+</body>
+</html>

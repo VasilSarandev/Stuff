@@ -1,0 +1,30 @@
+﻿<html>
+<head>
+	<title></title>
+	<link href="styles/js-console.css" rel="stylesheet" />
+	
+</head>
+<body>
+<h1>What is third bit?</h1>
+<input type="text" id="tb" placeholder="Please enter a integer" />
+<input type="text" id="tb1" placeholder="Please enter a integer1" />
+<input type="button" value="Find out" onclick="Calculate()"/>
+<div id="js-console"></div>
+<script src="scripts/js-console.js"></script>
+<script>
+		function Calculate() {
+			var x=document.getElementById('tb').value;
+			var y=document.getElementById('tb1').value;
+			x=parseInt(x);
+			y=parseInt(y);
+			var radius=5;
+			if((x*x+y*y)<radius*radius)
+			{
+				jsConsole.writeLine("Point is withing Circle");
+				}
+				else
+					jsConsole.writeLine("Point isn't within Circle K(0,5)");
+					}
+			</script>
+			</body>
+	</html>

@@ -1,0 +1,42 @@
+﻿<html>
+<head>
+<title>They see me sortin, they hatin</title>
+	<link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+<input type="text" id="tb1" placeholder="Please enter Integer #1" />
+<input type="text" id="tb2" placeholder="Please enter Integer #2" />
+<input type="text" id="tb3" placeholder="Please enter Integer #3" />
+<input type="button" value="click me pls" onclick="Calculate()" />
+<div id="js-console"></div>
+<script src="scripts/js-console.js"></script>
+<script>
+	function Calculate() {
+	var num1=document.getElementById('tb1') .value;
+	var num2=document.getElementById('tb2') .value;
+	var num3=document.getElementById('tb3') .value;
+	num1=parseInt(num1);
+	num2=parseInt(num2);
+	num3=parseInt(num3);
+		if(num1>num2 && num2>num3){
+		jsConsole.writeLine("Integers in descending order " +num1 +" " +num2 +" " +num3);
+		}
+			else if(num1>num3 && num3>num2){
+		jsConsole.writeLine("Integers in descending order " +num1 +" " +num3 +" " +num2);
+		}
+					else if(num2>num1 && num1>num3){
+					jsConsole.writeLine("Integers in descending order " +num2 +" " +num1 +" " +num3);
+					}
+							else if(num2>num3 && num3>num1) {
+								jsConsole.writeLine("Integers in descending order " +num2 +" " +num3 +" " +num1);
+								}
+									else if(num3>num1 && num1>num2) {
+										jsConsole.writeLine("Integers in descending order " +num3 +" "+num1 +" "+num2);
+										}
+											else if(num3>num2 && num2>num1) {
+												jsConsole.writeLine("Integers in descending order " +num3 +" " +num2+" " +num1);
+												}
+										}
+</script>
+</body>
+</html>

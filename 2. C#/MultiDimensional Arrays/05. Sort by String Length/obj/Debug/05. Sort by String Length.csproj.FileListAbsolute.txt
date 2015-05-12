@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Telerik\C#2\MultiDimensional Arrays HW\05. Sort by String Length\bin\Debug\_05.Sort_by_String_Length.exe.config
+C:\Users\User\Desktop\Telerik\C#2\MultiDimensional Arrays HW\05. Sort by String Length\bin\Debug\_05.Sort_by_String_Length.exe
+C:\Users\User\Desktop\Telerik\C#2\MultiDimensional Arrays HW\05. Sort by String Length\bin\Debug\_05.Sort_by_String_Length.pdb
+C:\Users\User\Desktop\Telerik\C#2\MultiDimensional Arrays HW\05. Sort by String Length\obj\Debug\_05.Sort_by_String_Length.exe
+C:\Users\User\Desktop\Telerik\C#2\MultiDimensional Arrays HW\05. Sort by String Length\obj\Debug\_05.Sort_by_String_Length.pdb
+C:\Users\User\Desktop\Telerik\C#2\MultiDimensional Arrays HW\05. Sort by String Length\obj\Debug\05. Sort by String Length.csprojResolveAssemblyReference.cache

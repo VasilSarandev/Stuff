@@ -1,0 +1,47 @@
+﻿<html>
+<head>
+<title>Occurrence of word</title>
+	<link href="styles/js-console.css" rel="stylesheet" />
+<script>
+	function MyFunc() {
+		var MyArray=[4,2,3,4,5,6,7,4,8,9,1,4];
+		var NumToSearch=4;
+		var count=0;
+		jsConsole.writeLine("Array to search in : " +MyArray);
+		jsConsole.writeLine("Number to search in array : " +NumToSearch);
+			for(var index=0; index<MyArray.length; index++) {
+				if(MyArray[index]==NumToSearch) {
+				count++; }
+				}
+				jsConsole.writeLine("Occurence of Number = " +count);
+				document.getElementById('tb') .value=count;
+	}
+</script>
+<script>
+	function CheckMyFunc() {
+		var result = document.getElementById('tb') .value;
+		if(result==4) 
+		jsConsole.writeLine("It's working correctly.");
+		else
+		jsConsole.writeLine("It aint gonna work man...");
+		}
+</script>
+</head>
+<body>
+<button onclick="MyFunc()">Execute Function</button>
+<button onclick="CheckMyFunc()">Check Function</button>
+<input type="text" id="tb" placeholder="Occurence of Num"  />
+<div id="js-console"></div>
+<script src="scripts/js-console.js"></script>
+<script> 
+	function CheckMyFunc() {
+		var result = document.getElementById('tb') .value;
+		if(result==4) {
+		jsConsole.writeLine("Yes,the function is working absoluteeely correctly.");
+		else 
+		jsConsole.writeLine("No, developer, you suck.");
+		}
+		}
+</script>
+</body>
+</html>

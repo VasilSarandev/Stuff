@@ -1,0 +1,33 @@
+﻿<html>
+<head>
+	<title></title>
+	<link href="styles/js-console.css" rel="stylesheet" />
+	
+</head>
+<body>
+			<h1>Calculating rectangle's area</h1>
+    <input type="text" style="width:140px height:36px" id="width" placeholder="Please enter width"    />
+	<input type="text" style="width:140px height:36px" id="height" placeholder="Please enter height" />
+	<input type="text" style="width:250px height:40px" id="result" placeholder="Result" readonly=yes />
+	<input type="submit" id="submit" value="Area" onclick="Calculate()"/>
+	<div id="js-console"></div>
+	<script src="scripts/js-console.js"></script>
+	<script>
+	function Calculate() {
+	var width=document.getElementById('width') .value;
+	var height=document.getElementById('height') .value;
+	var area;
+	width=parseInt(width);
+	height=parseInt(height);
+	area=height*width;
+	document.getElementById('result') .value="Area of rectangle=" +area;
+	jsConsole.writeLine("The height you entered is  " +height);
+	jsConsole.writeLine("The width you entered is   " +width);
+	}
+	
+	
+    
+	
+	</script>
+</body>
+</html>

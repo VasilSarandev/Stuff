@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\Telerik\C#2\ArraysHW\09. Frequent Numbe\bin\Debug\_09.Frequent_Numbe.exe.config
+C:\Users\User\Desktop\Telerik\C#2\ArraysHW\09. Frequent Numbe\bin\Debug\_09.Frequent_Numbe.exe
+C:\Users\User\Desktop\Telerik\C#2\ArraysHW\09. Frequent Numbe\bin\Debug\_09.Frequent_Numbe.pdb
+C:\Users\User\Desktop\Telerik\C#2\ArraysHW\09. Frequent Numbe\obj\Debug\_09.Frequent_Numbe.exe
+C:\Users\User\Desktop\Telerik\C#2\ArraysHW\09. Frequent Numbe\obj\Debug\_09.Frequent_Numbe.pdb

@@ -1,0 +1,5 @@
+C:\Users\Krasimir\Desktop\TELERIK\TELERIK HW\DataTypesVariables\PrimitiveDataTypesAndVariablesHW\NullIntegers ( Ex12)\bin\Debug\NullIntegers ( Ex12).exe.config
+C:\Users\Krasimir\Desktop\TELERIK\TELERIK HW\DataTypesVariables\PrimitiveDataTypesAndVariablesHW\NullIntegers ( Ex12)\bin\Debug\NullIntegers ( Ex12).exe
+C:\Users\Krasimir\Desktop\TELERIK\TELERIK HW\DataTypesVariables\PrimitiveDataTypesAndVariablesHW\NullIntegers ( Ex12)\bin\Debug\NullIntegers ( Ex12).pdb
+C:\Users\Krasimir\Desktop\TELERIK\TELERIK HW\DataTypesVariables\PrimitiveDataTypesAndVariablesHW\NullIntegers ( Ex12)\obj\Debug\NullIntegers ( Ex12).exe
+C:\Users\Krasimir\Desktop\TELERIK\TELERIK HW\DataTypesVariables\PrimitiveDataTypesAndVariablesHW\NullIntegers ( Ex12)\obj\Debug\NullIntegers ( Ex12).pdb

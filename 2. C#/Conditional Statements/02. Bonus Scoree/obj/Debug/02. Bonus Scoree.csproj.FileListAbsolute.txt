@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Telerik\Exercisin'\Conditional Statements HW\02. Bonus Scoree\bin\Debug\_02.Bonus_Scoree.exe.config
+C:\Users\User\Desktop\Telerik\Exercisin'\Conditional Statements HW\02. Bonus Scoree\bin\Debug\_02.Bonus_Scoree.exe
+C:\Users\User\Desktop\Telerik\Exercisin'\Conditional Statements HW\02. Bonus Scoree\bin\Debug\_02.Bonus_Scoree.pdb
+C:\Users\User\Desktop\Telerik\Exercisin'\Conditional Statements HW\02. Bonus Scoree\obj\Debug\02. Bonus Scoree.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Telerik\Exercisin'\Conditional Statements HW\02. Bonus Scoree\obj\Debug\_02.Bonus_Scoree.exe
+C:\Users\User\Desktop\Telerik\Exercisin'\Conditional Statements HW\02. Bonus Scoree\obj\Debug\_02.Bonus_Scoree.pdb

@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\Telerik\C#2\MethodsHW\04. Appearance Count\bin\Debug\_04.Appearance_Count.exe.config
+C:\Users\User\Desktop\Telerik\C#2\MethodsHW\04. Appearance Count\bin\Debug\_04.Appearance_Count.exe
+C:\Users\User\Desktop\Telerik\C#2\MethodsHW\04. Appearance Count\bin\Debug\_04.Appearance_Count.pdb
+C:\Users\User\Desktop\Telerik\C#2\MethodsHW\04. Appearance Count\obj\Debug\_04.Appearance_Count.exe
+C:\Users\User\Desktop\Telerik\C#2\MethodsHW\04. Appearance Count\obj\Debug\_04.Appearance_Count.pdb

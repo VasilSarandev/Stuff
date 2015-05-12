@@ -1,0 +1,32 @@
+﻿<html>
+<head>
+<title>Ex.1</title>
+	<link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+<input type="text" id="one" placeholder="Please enter integer #1" />
+<input type="text" id="two" placeholder="Please enter integer #2" />
+<input type="button" value="Kaboom" onclick="Calculate()" />
+<div id="js-console"></div>
+<script src="scripts/js-console.js"></script>
+<script>
+		function Calculate() {
+		var integ1=document.getElementById('one') .value;
+		var integ2=document.getElementById('two') .value;
+		var smqna;
+		integ1=parseInt(integ1);
+		integ2=parseInt(integ2);
+		if(integ1>integ2){
+		smqna=integ1;
+		integ1=integ2;
+		integ2=smqna;
+		jsConsole.writeLine("Integer 1 is greater than Integer 2, changing values.");
+		jsConsole.writeLine("Integer 1 value after the change: " +integ1);
+		jsConsole.writeLine("Integer 2 value after the change: " +integ2);
+		}
+		else
+		jsConsole.writeLine("Integer 2 is greater than Integer 1, script won't continue.");
+		}
+</script>
+</body>
+</html>

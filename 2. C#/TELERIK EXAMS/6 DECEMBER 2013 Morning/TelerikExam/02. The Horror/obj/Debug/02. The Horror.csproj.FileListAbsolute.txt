@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Telerik\Exercisin'\TELERIK EXAMS\6 DECEMBER 2013 Morning\TelerikExam\02. The Horror\bin\Debug\_02.The_Horror.exe.config
+C:\Users\User\Desktop\Telerik\Exercisin'\TELERIK EXAMS\6 DECEMBER 2013 Morning\TelerikExam\02. The Horror\bin\Debug\_02.The_Horror.exe
+C:\Users\User\Desktop\Telerik\Exercisin'\TELERIK EXAMS\6 DECEMBER 2013 Morning\TelerikExam\02. The Horror\bin\Debug\_02.The_Horror.pdb
+C:\Users\User\Desktop\Telerik\Exercisin'\TELERIK EXAMS\6 DECEMBER 2013 Morning\TelerikExam\02. The Horror\obj\Debug\_02.The_Horror.exe
+C:\Users\User\Desktop\Telerik\Exercisin'\TELERIK EXAMS\6 DECEMBER 2013 Morning\TelerikExam\02. The Horror\obj\Debug\_02.The_Horror.pdb
+C:\Users\User\Desktop\Telerik\Exercisin'\TELERIK EXAMS\6 DECEMBER 2013 Morning\TelerikExam\02. The Horror\obj\Debug\02. The Horror.csprojResolveAssemblyReference.cache

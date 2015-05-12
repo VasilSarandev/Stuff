@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Telerik\Exercisin'\Conditional Statements HW\Conditional Statements HW\bin\Debug\Conditional Statements HW.exe.config
+C:\Users\User\Desktop\Telerik\Exercisin'\Conditional Statements HW\Conditional Statements HW\bin\Debug\Conditional Statements HW.exe
+C:\Users\User\Desktop\Telerik\Exercisin'\Conditional Statements HW\Conditional Statements HW\bin\Debug\Conditional Statements HW.pdb
+C:\Users\User\Desktop\Telerik\Exercisin'\Conditional Statements HW\Conditional Statements HW\obj\Debug\01.Exchange if Greater.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Telerik\Exercisin'\Conditional Statements HW\Conditional Statements HW\obj\Debug\Conditional Statements HW.exe
+C:\Users\User\Desktop\Telerik\Exercisin'\Conditional Statements HW\Conditional Statements HW\obj\Debug\Conditional Statements HW.pdb

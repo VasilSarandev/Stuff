@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Telerik\C#2\Numeral Systems HW\02. Binary To Decimal\bin\Debug\_02.Binary_To_Decimal.exe.config
+C:\Users\User\Desktop\Telerik\C#2\Numeral Systems HW\02. Binary To Decimal\bin\Debug\_02.Binary_To_Decimal.exe
+C:\Users\User\Desktop\Telerik\C#2\Numeral Systems HW\02. Binary To Decimal\bin\Debug\_02.Binary_To_Decimal.pdb
+C:\Users\User\Desktop\Telerik\C#2\Numeral Systems HW\02. Binary To Decimal\obj\Debug\02. Binary To Decimal.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Telerik\C#2\Numeral Systems HW\02. Binary To Decimal\obj\Debug\_02.Binary_To_Decimal.exe
+C:\Users\User\Desktop\Telerik\C#2\Numeral Systems HW\02. Binary To Decimal\obj\Debug\_02.Binary_To_Decimal.pdb

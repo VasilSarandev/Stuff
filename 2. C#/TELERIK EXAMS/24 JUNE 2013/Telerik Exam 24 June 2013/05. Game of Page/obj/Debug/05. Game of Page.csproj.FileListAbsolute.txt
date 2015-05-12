@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Telerik\Exercisin'\TELERIK EXAMS\24 JUNE 2013\Telerik Exam 24 June 2013\05. Game of Page\bin\Debug\_05.Game_of_Page.exe.config
+C:\Users\User\Desktop\Telerik\Exercisin'\TELERIK EXAMS\24 JUNE 2013\Telerik Exam 24 June 2013\05. Game of Page\bin\Debug\_05.Game_of_Page.exe
+C:\Users\User\Desktop\Telerik\Exercisin'\TELERIK EXAMS\24 JUNE 2013\Telerik Exam 24 June 2013\05. Game of Page\bin\Debug\_05.Game_of_Page.pdb
+C:\Users\User\Desktop\Telerik\Exercisin'\TELERIK EXAMS\24 JUNE 2013\Telerik Exam 24 June 2013\05. Game of Page\obj\Debug\05. Game of Page.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Telerik\Exercisin'\TELERIK EXAMS\24 JUNE 2013\Telerik Exam 24 June 2013\05. Game of Page\obj\Debug\_05.Game_of_Page.exe
+C:\Users\User\Desktop\Telerik\Exercisin'\TELERIK EXAMS\24 JUNE 2013\Telerik Exam 24 June 2013\05. Game of Page\obj\Debug\_05.Game_of_Page.pdb

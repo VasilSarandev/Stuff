@@ -1,0 +1,5 @@
+C:\Users\Krasimir\Desktop\TELERIK\TELERIK HW\DataTypesVariables\PrimitiveDataTypesAndVariablesHW\VariableInHexaDecimalFormat\bin\Debug\VariableInHexaDecimalFormat.exe.config
+C:\Users\Krasimir\Desktop\TELERIK\TELERIK HW\DataTypesVariables\PrimitiveDataTypesAndVariablesHW\VariableInHexaDecimalFormat\bin\Debug\VariableInHexaDecimalFormat.exe
+C:\Users\Krasimir\Desktop\TELERIK\TELERIK HW\DataTypesVariables\PrimitiveDataTypesAndVariablesHW\VariableInHexaDecimalFormat\bin\Debug\VariableInHexaDecimalFormat.pdb
+C:\Users\Krasimir\Desktop\TELERIK\TELERIK HW\DataTypesVariables\PrimitiveDataTypesAndVariablesHW\VariableInHexaDecimalFormat\obj\Debug\VariableInHexaDecimalFormat.exe
+C:\Users\Krasimir\Desktop\TELERIK\TELERIK HW\DataTypesVariables\PrimitiveDataTypesAndVariablesHW\VariableInHexaDecimalFormat\obj\Debug\VariableInHexaDecimalFormat.pdb

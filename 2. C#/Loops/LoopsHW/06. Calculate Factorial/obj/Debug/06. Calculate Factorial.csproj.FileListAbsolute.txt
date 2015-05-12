@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\Telerik\Loops HW\LoopsHW\06. Calculate Factorial\bin\Debug\_06.Calculate_Factorial.exe.config
+C:\Users\User\Desktop\Telerik\Loops HW\LoopsHW\06. Calculate Factorial\bin\Debug\_06.Calculate_Factorial.exe
+C:\Users\User\Desktop\Telerik\Loops HW\LoopsHW\06. Calculate Factorial\bin\Debug\_06.Calculate_Factorial.pdb
+C:\Users\User\Desktop\Telerik\Loops HW\LoopsHW\06. Calculate Factorial\obj\Debug\_06.Calculate_Factorial.exe
+C:\Users\User\Desktop\Telerik\Loops HW\LoopsHW\06. Calculate Factorial\obj\Debug\_06.Calculate_Factorial.pdb

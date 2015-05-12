@@ -1,0 +1,39 @@
+﻿<html>
+<head>
+<title>Greatest of 3</title>
+	<link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+<input type="text" id="tb1" placeholder="Enter Integer #1" />
+<input type="text" id="tb2" placeholder="Enter Integer #2" />
+<input type="text" id="tb3" placeholder="Enter Integer #3" />
+<input type="button" value="Click,brah" onclick="Calculate()" />
+<div id="js-console"></div>
+<script src="scripts/js-console.js"></script>
+<script>
+function Calculate() {
+var num1=document.getElementById('tb1') .value;
+var num2=document.getElementById('tb2') .value;
+var num3=document.getElementById('tb3') .value;
+num1=parseInt(num1);
+num2=parseInt(num2);
+num3=parseInt(num3);
+if(num1>num2 && num1>num3) {
+jsConsole.writeLine("Integer #1 is the greatest.");
+}
+else{
+if(num2>num1 && num2>num3) {
+jsConsole.writeLine("Integer #2 is the greatest.");
+}
+else{
+if(num3>num1 && num3>num1) {
+jsConsole.writeLine("Integer #3 is the greatest.");
+}
+else
+jsConsole.writeLine("Integers are equal.");
+}
+}
+}
+</script>
+</body>
+</html>

@@ -1,0 +1,48 @@
+﻿<html>
+<head>
+<title>Check for a property</title>
+<p>Please make the difference between property and property value. Our task is to search for a property , not value of a property.</p>
+	<link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body onload="giveProps()">
+<input type="text" id="tb" placeholder="Enter property to search" />
+<button onclick="MyFunc()">Execute Function</button>
+<div id="js-console"></div>
+<script src="scripts/js-console.js"></script>
+<script>
+function MyFunc() {
+var propertyArray= [];
+var propertyToSearch=document.getElementById('tb').value;
+var broqch=0;
+		var MyObj = {
+			person: {
+				age: 17,
+				weight: 68
+				},
+			person2: {
+				age: 24,
+				weight: 76
+				}
+		} 
+for(var property in MyObj) {
+propertyArray.push(property);
+
+}
+jsConsole.writeLine("Property to check for : " +propertyToSearch);
+for(var i=0; i<propertyArray.length; i++) {
+broqch++;
+if(propertyArray[i]==propertyToSearch) {
+jsConsole.writeLine("Found match in Object property #" +broqch +" with " +propertyToSearch +" in the given object.");
+}
+else
+jsConsole.writeLine("Not found match in Object property #" +broqch +" with " +propertyToSearch + " in the given object.");
+
+}
+}
+function giveProps() {
+jsConsole.writeLine("Properties of object : person ; person2 ");
+}
+</script>
+
+</body>
+</html>

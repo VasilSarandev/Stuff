@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\PacManStyle-master\PacManStyle\bin\Debug\matrix.exe.config
+C:\Users\User\Desktop\PacManStyle-master\PacManStyle\bin\Debug\matrix.exe
+C:\Users\User\Desktop\PacManStyle-master\PacManStyle\bin\Debug\matrix.pdb
+C:\Users\User\Desktop\PacManStyle-master\PacManStyle\obj\Debug\PacManStyle.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\PacManStyle-master\PacManStyle\obj\Debug\matrix.exe
+C:\Users\User\Desktop\PacManStyle-master\PacManStyle\obj\Debug\matrix.pdb

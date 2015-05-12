@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Telerik\Exercisin'\TELERIK EXAMS\23 June 2013\Telerik Exam 23 June 2013\Telerik Exam 23 June 2013\bin\Debug\Telerik Exam 23 June 2013.exe.config
+C:\Users\User\Desktop\Telerik\Exercisin'\TELERIK EXAMS\23 June 2013\Telerik Exam 23 June 2013\Telerik Exam 23 June 2013\bin\Debug\Telerik Exam 23 June 2013.exe
+C:\Users\User\Desktop\Telerik\Exercisin'\TELERIK EXAMS\23 June 2013\Telerik Exam 23 June 2013\Telerik Exam 23 June 2013\bin\Debug\Telerik Exam 23 June 2013.pdb
+C:\Users\User\Desktop\Telerik\Exercisin'\TELERIK EXAMS\23 June 2013\Telerik Exam 23 June 2013\Telerik Exam 23 June 2013\obj\Debug\01. Coffee Vending Machine.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Telerik\Exercisin'\TELERIK EXAMS\23 June 2013\Telerik Exam 23 June 2013\Telerik Exam 23 June 2013\obj\Debug\Telerik Exam 23 June 2013.exe
+C:\Users\User\Desktop\Telerik\Exercisin'\TELERIK EXAMS\23 June 2013\Telerik Exam 23 June 2013\Telerik Exam 23 June 2013\obj\Debug\Telerik Exam 23 June 2013.pdb

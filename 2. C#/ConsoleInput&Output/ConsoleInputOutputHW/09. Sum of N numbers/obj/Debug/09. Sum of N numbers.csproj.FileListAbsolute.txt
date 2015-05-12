@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\Telerik\ConsoleInput&Output HW\ConsoleInputOutputHW\09. Sum of N numbers\bin\Debug\_09.Sum_of_N_numbers.exe.config
+C:\Users\User\Desktop\Telerik\ConsoleInput&Output HW\ConsoleInputOutputHW\09. Sum of N numbers\bin\Debug\_09.Sum_of_N_numbers.exe
+C:\Users\User\Desktop\Telerik\ConsoleInput&Output HW\ConsoleInputOutputHW\09. Sum of N numbers\bin\Debug\_09.Sum_of_N_numbers.pdb
+C:\Users\User\Desktop\Telerik\ConsoleInput&Output HW\ConsoleInputOutputHW\09. Sum of N numbers\obj\Debug\_09.Sum_of_N_numbers.exe
+C:\Users\User\Desktop\Telerik\ConsoleInput&Output HW\ConsoleInputOutputHW\09. Sum of N numbers\obj\Debug\_09.Sum_of_N_numbers.pdb

@@ -1,0 +1,40 @@
+﻿<html>
+<head>
+<title>Occurrence of word</title>
+	<link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+<button onclick="MyFunc()">Execute Function</button>
+<div id="js-console"></div>
+<script src="scripts/js-console.js"></script>
+<script> 
+		function MyFunc() {
+			var TextToSearchIn="There was a pretty tree in the backyard and many birds were sitting in its branches.In our house you can smell the birds poop. In 2 days we will cut the tree.";
+			var WordToSearch="in";
+			var CaseSensitive=false;
+			CountOccurenceWord(TextToSearchIn,WordToSearch);
+			CountOccurenceWord(TextToSearchIn,WordToSearch,true);
+				function CountOccurenceWord(TextToSearchIn, WordToSearch, CaseSensitive) {
+					CaseSensitive=CaseSensitive || false;
+					var broqch=0;
+					if(CaseSensitive==false) {
+					var wordArray=TextToSearchIn.split(WordToSearch);
+						for (var str in wordArray) {
+							broqch++;
+							}
+							jsConsole.writeLine("The Count of Word " +WordToSearch +" case insensitie search is " +broqch);
+					}
+					else {
+					var index=TextToSearchIn.indexOf(WordToSearch);
+					while(index>0) {
+					broqch++;
+					index= TextToSearchIn.indexOf(WordToSearch, index+1);
+					}
+					jsConsole.writeLine("The count of word '" +WordToSearch + " case sensitive search  is " + broqch);
+					jsConsole.writeLine("Text to search in: " +TextToSearchIn);
+					}
+					}
+					}
+</script>
+</body>
+</html>

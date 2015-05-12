@@ -1,0 +1,5 @@
+C:\Users\Krasimir\Desktop\TELERIK\TELERIK HW\DataTypesVariables\PrimitiveDataTypesAndVariablesHW\FloatOrDouble\bin\Debug\FloatOrDouble.exe.config
+C:\Users\Krasimir\Desktop\TELERIK\TELERIK HW\DataTypesVariables\PrimitiveDataTypesAndVariablesHW\FloatOrDouble\bin\Debug\FloatOrDouble.exe
+C:\Users\Krasimir\Desktop\TELERIK\TELERIK HW\DataTypesVariables\PrimitiveDataTypesAndVariablesHW\FloatOrDouble\bin\Debug\FloatOrDouble.pdb
+C:\Users\Krasimir\Desktop\TELERIK\TELERIK HW\DataTypesVariables\PrimitiveDataTypesAndVariablesHW\FloatOrDouble\obj\Debug\FloatOrDouble.exe
+C:\Users\Krasimir\Desktop\TELERIK\TELERIK HW\DataTypesVariables\PrimitiveDataTypesAndVariablesHW\FloatOrDouble\obj\Debug\FloatOrDouble.pdb

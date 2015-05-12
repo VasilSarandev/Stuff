@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\Telerik\Loops HW\LoopsHW\14. Decimal To Binary\bin\Debug\_14.Decimal_To_Binary.exe.config
+C:\Users\User\Desktop\Telerik\Loops HW\LoopsHW\14. Decimal To Binary\bin\Debug\_14.Decimal_To_Binary.exe
+C:\Users\User\Desktop\Telerik\Loops HW\LoopsHW\14. Decimal To Binary\bin\Debug\_14.Decimal_To_Binary.pdb
+C:\Users\User\Desktop\Telerik\Loops HW\LoopsHW\14. Decimal To Binary\obj\Debug\_14.Decimal_To_Binary.exe
+C:\Users\User\Desktop\Telerik\Loops HW\LoopsHW\14. Decimal To Binary\obj\Debug\_14.Decimal_To_Binary.pdb

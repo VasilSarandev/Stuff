@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Telerik\Loops HW\LoopsHW\13. Binary to Decimal\bin\Debug\_13.Binary_to_Decimal.exe.config
+C:\Users\User\Desktop\Telerik\Loops HW\LoopsHW\13. Binary to Decimal\bin\Debug\_13.Binary_to_Decimal.exe
+C:\Users\User\Desktop\Telerik\Loops HW\LoopsHW\13. Binary to Decimal\bin\Debug\_13.Binary_to_Decimal.pdb
+C:\Users\User\Desktop\Telerik\Loops HW\LoopsHW\13. Binary to Decimal\obj\Debug\13. Binary to Decimal.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Telerik\Loops HW\LoopsHW\13. Binary to Decimal\obj\Debug\_13.Binary_to_Decimal.exe
+C:\Users\User\Desktop\Telerik\Loops HW\LoopsHW\13. Binary to Decimal\obj\Debug\_13.Binary_to_Decimal.pdb

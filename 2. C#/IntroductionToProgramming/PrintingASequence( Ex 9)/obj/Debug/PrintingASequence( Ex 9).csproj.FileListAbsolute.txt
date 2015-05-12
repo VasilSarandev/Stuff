@@ -1,0 +1,5 @@
+C:\Users\Krasimir\Desktop\TELERIK\TELERIK HW\Programming Introduction\New folder\HelloCSharp\PrintingASequence( Ex 9)\bin\Debug\PrintingASequence( Ex 9).exe.config
+C:\Users\Krasimir\Desktop\TELERIK\TELERIK HW\Programming Introduction\New folder\HelloCSharp\PrintingASequence( Ex 9)\bin\Debug\PrintingASequence( Ex 9).exe
+C:\Users\Krasimir\Desktop\TELERIK\TELERIK HW\Programming Introduction\New folder\HelloCSharp\PrintingASequence( Ex 9)\bin\Debug\PrintingASequence( Ex 9).pdb
+C:\Users\Krasimir\Desktop\TELERIK\TELERIK HW\Programming Introduction\New folder\HelloCSharp\PrintingASequence( Ex 9)\obj\Debug\PrintingASequence( Ex 9).exe
+C:\Users\Krasimir\Desktop\TELERIK\TELERIK HW\Programming Introduction\New folder\HelloCSharp\PrintingASequence( Ex 9)\obj\Debug\PrintingASequence( Ex 9).pdb

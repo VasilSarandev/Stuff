@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\Telerik\ConsoleInput&Output HW\ConsoleInputOutputHW\03. Circle Perimeter And Area\bin\Debug\_03.Circle_Perimeter_And_Area.exe.config
+C:\Users\User\Desktop\Telerik\ConsoleInput&Output HW\ConsoleInputOutputHW\03. Circle Perimeter And Area\bin\Debug\_03.Circle_Perimeter_And_Area.exe
+C:\Users\User\Desktop\Telerik\ConsoleInput&Output HW\ConsoleInputOutputHW\03. Circle Perimeter And Area\bin\Debug\_03.Circle_Perimeter_And_Area.pdb
+C:\Users\User\Desktop\Telerik\ConsoleInput&Output HW\ConsoleInputOutputHW\03. Circle Perimeter And Area\obj\Debug\_03.Circle_Perimeter_And_Area.exe
+C:\Users\User\Desktop\Telerik\ConsoleInput&Output HW\ConsoleInputOutputHW\03. Circle Perimeter And Area\obj\Debug\_03.Circle_Perimeter_And_Area.pdb

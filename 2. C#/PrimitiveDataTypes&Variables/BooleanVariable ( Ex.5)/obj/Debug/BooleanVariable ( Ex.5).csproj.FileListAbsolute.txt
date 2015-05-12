@@ -1,0 +1,6 @@
+C:\Users\Krasimir\Desktop\TELERIK\TELERIK HW\DataTypesVariables\PrimitiveDataTypesAndVariablesHW\BooleanVariable ( Ex.5)\bin\Debug\BooleanVariable ( Ex.5).exe.config
+C:\Users\Krasimir\Desktop\TELERIK\TELERIK HW\DataTypesVariables\PrimitiveDataTypesAndVariablesHW\BooleanVariable ( Ex.5)\bin\Debug\BooleanVariable ( Ex.5).exe
+C:\Users\Krasimir\Desktop\TELERIK\TELERIK HW\DataTypesVariables\PrimitiveDataTypesAndVariablesHW\BooleanVariable ( Ex.5)\bin\Debug\BooleanVariable ( Ex.5).pdb
+C:\Users\Krasimir\Desktop\TELERIK\TELERIK HW\DataTypesVariables\PrimitiveDataTypesAndVariablesHW\BooleanVariable ( Ex.5)\obj\Debug\BooleanVariable ( Ex.5).csprojResolveAssemblyReference.cache
+C:\Users\Krasimir\Desktop\TELERIK\TELERIK HW\DataTypesVariables\PrimitiveDataTypesAndVariablesHW\BooleanVariable ( Ex.5)\obj\Debug\BooleanVariable ( Ex.5).exe
+C:\Users\Krasimir\Desktop\TELERIK\TELERIK HW\DataTypesVariables\PrimitiveDataTypesAndVariablesHW\BooleanVariable ( Ex.5)\obj\Debug\BooleanVariable ( Ex.5).pdb

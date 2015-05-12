@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Telerik\Exercisin'\Conditional Statements HW\04. Multiplication Sign\bin\Debug\_04.Multiplication_Sign.exe.config
+C:\Users\User\Desktop\Telerik\Exercisin'\Conditional Statements HW\04. Multiplication Sign\bin\Debug\_04.Multiplication_Sign.exe
+C:\Users\User\Desktop\Telerik\Exercisin'\Conditional Statements HW\04. Multiplication Sign\bin\Debug\_04.Multiplication_Sign.pdb
+C:\Users\User\Desktop\Telerik\Exercisin'\Conditional Statements HW\04. Multiplication Sign\obj\Debug\04. Multiplication Sign.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Telerik\Exercisin'\Conditional Statements HW\04. Multiplication Sign\obj\Debug\_04.Multiplication_Sign.exe
+C:\Users\User\Desktop\Telerik\Exercisin'\Conditional Statements HW\04. Multiplication Sign\obj\Debug\_04.Multiplication_Sign.pdb

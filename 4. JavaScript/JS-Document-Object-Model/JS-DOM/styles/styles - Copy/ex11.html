@@ -1,0 +1,43 @@
+﻿<html>
+<head>
+	<link rel="stylesheet" href="styles/js-console.css"/>
+<title>Ex.1</title>
+</head>
+<body onload="OnGetElementsByTagNameButtonClick()">
+<div id="main"> MAIN-DIV.
+	<div id="div1">           DIV 1
+		<div id="div2">           DIV 2
+			<div>                            DIV 3
+			</div>
+		</div>
+	</div>
+</div>
+		<div id="js-console"></div>
+		<script src="scripts/js-console.js"></script>
+<script>
+function OnGetElementsByTagNameButtonClick(){
+//making variables out of div-nodes.
+jsConsole.writeLine("Using getElementsByTagName");
+	var count1s=0;
+	var count2s=0;
+	var count3s=0;
+	var div1 = document.getElementById('div1'); 
+	var divz = div1.getElementsByTagName('div'); //getting a list of elements inside div node
+	var maindiv = document.getElementById('main'); 
+	var divzz = maindiv.getElementsByTagName('div'); //===
+	var div2 = document.getElementById('div2');
+	var divzzz = div2.getElementsByTagName('div');
+	
+	for(var i=0; i<divz.length; i++) { //a loop to count the elements in the list 
+	count1s ++ }
+	for(var j=0; j<divzz.length; j++) { //===
+	count2s ++ }
+	for(var j=0; j<divzzz.length; j++) {
+	count3s ++ }
+jsConsole.writeLine(count2s + " divs in MAIN-DIV");
+jsConsole.writeLine(count1s + " divs in DIV 1");
+jsConsole.writeLine(count3s + " div in DIV2");
+}
+</script>
+</body>
+</html>

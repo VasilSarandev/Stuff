@@ -1,0 +1,41 @@
+Source : http://mashable.com/2014/01/21/learn-programming-languages/ ; Lynda.com
+
+1. Java
+Java is a class-based, OOP language developed by Sun Mycrosystems in the 1990s. It's standardly used for web-based content, mobile apps and games and the Android operating system.
+Java is similar to C# due to their object-oriented core.
+They differ though because of Java's usage. While C# is used mostly for desktop games and apps, Java's usage is on web-based content.
+
+2. C Language
+
+C is mostly used for implementing operating systems and embedded applications. The C Programming Language itself provides the core(foundation) of many other languages it's advisable to learn C and C++ before moving onto C# and etc.
+
+C is quite similar to C#. Ex. Hello World in C would look something like this :
+
+#include<studio.h>
+
+main()
+
+{
+	printf("Hello World");
+
+}
+
+so yeah. you get the point.
+The difference is that C# is much more powerful and functional. There are many, many, many functions in C# that you have to create yourself which is pretty damn hard. C# is also a lot "younger" than his older bro.
+
+3. Objective-C
+
+Objective-C is also a OOP language although it's used only used by Apple's OS. It powers Apple's OSX and IOS. Same goes for APIs and can be used to create
+iPhone apps.
+Although C is the name too, Objective-C is quite outdated and different compared to C#. The syntax is absolutely different with almost no similarities
+except some keywords like int,main or return.
+The similarities are that C# and Objective - C are both OOP languages. Their usage is quite the same also. They are used for creating applications and software.
+
+
+
+
+4. PHP 
+
+PHP (Hypertext Processor) is a free, server-side scripting language designed for dynamic websites and app development. It can be directly embedded into an HTML source document rather than an external file, which has made it a popular programming language for web developers. PHP powers more than 200 million websites, including Wordpress, Di
+gg and Facebook.
+

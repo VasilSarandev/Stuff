@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Telerik\Exercisin'\TELERIK EXAMS\5 December\Telerik Exam 5 December Evening\Telerik Exam 5 December Evening\bin\Debug\Telerik Exam 5 December Evening.exe.config
+C:\Users\User\Desktop\Telerik\Exercisin'\TELERIK EXAMS\5 December\Telerik Exam 5 December Evening\Telerik Exam 5 December Evening\bin\Debug\Telerik Exam 5 December Evening.exe
+C:\Users\User\Desktop\Telerik\Exercisin'\TELERIK EXAMS\5 December\Telerik Exam 5 December Evening\Telerik Exam 5 December Evening\bin\Debug\Telerik Exam 5 December Evening.pdb
+C:\Users\User\Desktop\Telerik\Exercisin'\TELERIK EXAMS\5 December\Telerik Exam 5 December Evening\Telerik Exam 5 December Evening\obj\Debug\03. Ones and Zeros.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Telerik\Exercisin'\TELERIK EXAMS\5 December\Telerik Exam 5 December Evening\Telerik Exam 5 December Evening\obj\Debug\Telerik Exam 5 December Evening.exe
+C:\Users\User\Desktop\Telerik\Exercisin'\TELERIK EXAMS\5 December\Telerik Exam 5 December Evening\Telerik Exam 5 December Evening\obj\Debug\Telerik Exam 5 December Evening.pdb

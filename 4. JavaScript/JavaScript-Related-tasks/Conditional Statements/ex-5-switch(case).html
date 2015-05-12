@@ -1,0 +1,33 @@
+﻿<html>
+<head>
+<title>Switch(case)</title>
+	<link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+<input type="text" id="tb" placeholder="Enter number" />
+<input type="button" value="Check the name of digit" onclick="Calculate()" />
+<div id="js-console"></div>
+<script src="scripts/js-console.js"></script>
+<script>
+		function Calculate() {
+			var numIndex=document.getElementById('tb') .value;
+			numIndex=parseInt(numIndex);
+			var name;
+			switch(numIndex) {
+				case 0: name="Zero"; break;
+				case 1: name="One"; break;
+				case 2: name="Two"; break;
+				case 3: name="Three"; break;
+				case 4: name="Four"; break;
+				case 5: name="Five"; break;
+				case 6: name="Six"; break;
+				case 7: name="Seven"; break;
+				case 8: name="Eight"; break;
+				case 9: name="Nine"; break;
+				default: name="Invalid number"; break;
+			}
+			jsConsole.writeLine(name);
+			}
+</script>
+</body>
+</html>

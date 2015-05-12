@@ -1,0 +1,96 @@
+﻿<html>
+<head>
+<script src="jquery-1.10.2.min.js"></script>
+<style>
+.SlideText {
+width:200px;
+height:70px;
+text-align:center;
+position:absolute;
+top:410px;
+left:490px;
+background:lightblue;
+}
+
+	
+</style>
+</head>
+	<body>
+	<div id="slides">
+		<!--SLIDE 1-->
+			<div id="slide1">
+			<input type="button" value="Next" class="NextSlideButton" />
+			</br>
+			<input type="button" value="Previous" class="PreviousSlideButton" />
+			<span class="SlideText">
+				<p style="color:sienna;"><strong>This Is Slide1</strong></p>
+			</span>
+</div>
+		<!--SLIDE 2-->
+			<div id="slide2">
+			<input type="button" value="Next" class="NextSlideButton" />
+			</br>
+			<input type="button" value="Previous" class="PreviousSlideButton" />
+			<span class="SlideText">
+				<p style="color:sienna;"><strong>This Is Slide2</strong></p>
+			</span>
+</div>
+		<!--SLIDE 3-->
+			<div id="slide3">
+			<input type="button" value="Next" class="NextSlideButton" />
+			</br>
+			<input type="button" value="Previous" class="PreviousSlideButton" />
+			<span class="SlideText">
+				<p style="color:sienna;"><strong>This Is Slide3</strong></p>
+			</span>
+</div>
+		<!--SLIDE 4-->
+			<div id="slide4">
+			<input type="button" value="Next" class="NextSlideButton" />
+			</br>
+			<input type="button" value="Previous" class="PreviousSlideButton" />
+			<span class="SlideText">
+				<p style="color:sienna;"><strong>This Is Slide4</strong></p>
+			</span>
+</div>
+		<!--SLIDE 5-->
+			<div id="slide5">
+			<input type="button" value="Next" class="NextSlideButton" />
+			</br>
+			<input type="button" value="Previous" class="PreviousSlideButton" />
+			<span class="SlideText">
+				<p style="color:sienna;"><strong>This Is Slide5</strong></p>
+			</span>
+</div>
+
+	</div> 
+<script>
+//selecting them slides.
+var slide1 = $("#slide1");
+var slide2 = $("#slide2");
+var slide3 = $("#slide3");
+var slide4 = $("#slide4");
+var slide5 = $("#slide5");
+
+//hiding slides 2,3,4,5
+	slide2.hide();
+	slide3.hide();
+	slide4.hide();
+	slide5.hide();
+
+//TODO : Implement (fade) function after a decent amount of time and show up SLIDE #n after it.
+function FadeAndHide(slideOne) {
+
+this.hide();
+this.next.show();
+
+}
+FadeAndHide(slide1);
+FadeAndHide(slide2);
+FadeAndHide(slide3);
+FadeAndHide(slide4);
+
+
+</script>
+</body>
+</html>

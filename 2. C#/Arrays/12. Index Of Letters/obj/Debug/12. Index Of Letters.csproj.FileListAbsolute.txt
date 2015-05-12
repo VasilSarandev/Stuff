@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Telerik\C#2\ArraysHW\12. Index Of Letters\bin\Debug\_12.Index_Of_Letters.exe.config
+C:\Users\User\Desktop\Telerik\C#2\ArraysHW\12. Index Of Letters\bin\Debug\_12.Index_Of_Letters.exe
+C:\Users\User\Desktop\Telerik\C#2\ArraysHW\12. Index Of Letters\bin\Debug\_12.Index_Of_Letters.pdb
+C:\Users\User\Desktop\Telerik\C#2\ArraysHW\12. Index Of Letters\obj\Debug\_12.Index_Of_Letters.exe
+C:\Users\User\Desktop\Telerik\C#2\ArraysHW\12. Index Of Letters\obj\Debug\_12.Index_Of_Letters.pdb
+C:\Users\User\Desktop\Telerik\C#2\ArraysHW\12. Index Of Letters\obj\Debug\12. Index Of Letters.csprojResolveAssemblyReference.cache

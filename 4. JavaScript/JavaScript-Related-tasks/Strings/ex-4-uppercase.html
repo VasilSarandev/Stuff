@@ -1,0 +1,35 @@
+﻿<html>
+<head>
+<title>upcase transforming</title>
+	<link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+<button onclick="UpcasE()">Execute function</button>
+<div id="js-console"></div>
+<script src="scripts/js-console.js"></script>
+<script>
+function UpcasE() {
+var text = " We are <upcase>living</upcase> in a <upcase>yellow submarine</upcase>. We <upcase>don't</upcase> have <upcase>anything</upcase> else. "
+jsConsole.writeLine("Original text = " +text);
+var indexStart = 0;
+var indexStop = 0;
+var Upp;
+for (var i = 0; i < text.length - 8; i++) {
+ 
+	if (text.substr(i, 8) == "<upcase>") {
+indexStart = i + 8;
+i = indexStart;
+}
+	if (text.substr(i, 9) == "</upcase>") {
+		indexStop = i;
+		var lenght = indexStop - indexStart;
+		Upp = text.substr(indexStart, lenght).toUpperCase();
+		text = text.replace(text.substr(indexStart, lenght), Upp);
+}
+}
+			jsConsole.writeLine(text);
+			
+}
+    </script>
+</body>
+</html>

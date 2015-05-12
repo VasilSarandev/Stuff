@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Telerik\C#2\MultiDimensional Arrays HW\03. Sequence N Matrix\bin\Debug\_03.Sequence_N_Matrix.exe.config
+C:\Users\User\Desktop\Telerik\C#2\MultiDimensional Arrays HW\03. Sequence N Matrix\bin\Debug\_03.Sequence_N_Matrix.exe
+C:\Users\User\Desktop\Telerik\C#2\MultiDimensional Arrays HW\03. Sequence N Matrix\bin\Debug\_03.Sequence_N_Matrix.pdb
+C:\Users\User\Desktop\Telerik\C#2\MultiDimensional Arrays HW\03. Sequence N Matrix\obj\Debug\_03.Sequence_N_Matrix.exe
+C:\Users\User\Desktop\Telerik\C#2\MultiDimensional Arrays HW\03. Sequence N Matrix\obj\Debug\_03.Sequence_N_Matrix.pdb
+C:\Users\User\Desktop\Telerik\C#2\MultiDimensional Arrays HW\03. Sequence N Matrix\obj\Debug\03. Sequence N Matrix.csprojResolveAssemblyReference.cache

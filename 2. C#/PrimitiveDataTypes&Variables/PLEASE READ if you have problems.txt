@@ -1,0 +1,4 @@
+To evaluate this homework : 
+1. Please extract the .zip file with your 7Zip/WinRar Program.
+2. Find The PrimitiveDataTypesAndVariablesHW.sln file and drag it into your VS 2013 and voala. 
+Thank you :)

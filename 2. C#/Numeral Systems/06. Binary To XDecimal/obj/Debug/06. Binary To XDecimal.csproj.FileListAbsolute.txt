@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\Telerik\C#2\Numeral Systems HW\06. Binary To XDecimal\bin\Debug\_06.Binary_To_XDecimal.exe.config
+C:\Users\User\Desktop\Telerik\C#2\Numeral Systems HW\06. Binary To XDecimal\bin\Debug\_06.Binary_To_XDecimal.exe
+C:\Users\User\Desktop\Telerik\C#2\Numeral Systems HW\06. Binary To XDecimal\bin\Debug\_06.Binary_To_XDecimal.pdb
+C:\Users\User\Desktop\Telerik\C#2\Numeral Systems HW\06. Binary To XDecimal\obj\Debug\_06.Binary_To_XDecimal.exe
+C:\Users\User\Desktop\Telerik\C#2\Numeral Systems HW\06. Binary To XDecimal\obj\Debug\_06.Binary_To_XDecimal.pdb

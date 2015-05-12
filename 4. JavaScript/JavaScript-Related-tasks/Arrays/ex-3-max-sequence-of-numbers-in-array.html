@@ -1,0 +1,34 @@
+﻿<html>
+<head>
+<title>Max sequence of numbers in Array</title>
+	<link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+<button onclick="MyFunc()">Execute</button>
+<div id="js-console"></div>
+<script src="scripts/js-console.js"></script>
+<script>
+function MyFunc() {
+		var arr=[2,2,3,4,5,6,6,7,8,8,8,1,4,3,2,1];
+		var resultArray = [arr[0]];
+		var NextArray = [arr[0]];
+		var broqch = 1;
+			for (var i = 0; i < arr.length - 1; i++) {
+				if (arr[i] == arr[i + 1]) {
+					NextArray.splice(0, 0, arr[i + 1]);
+					broqch += 1;
+				if (resultArray.length < broqch) {
+					resultArray = NextArray;
+				}
+				} 
+				else {
+					NextArray = [arr[i + 1]];
+					broqch = 1;
+				}
+			}
+			jsConsole.writeLine("Given Array: " +arr);
+			jsConsole.writeLine(resultArray);
+}
+</script>
+</body>
+</html>

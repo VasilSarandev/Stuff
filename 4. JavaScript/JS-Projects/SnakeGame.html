@@ -1,0 +1,71 @@
+﻿<html>
+<head>
+<script src="jquery-1.10.2.min.js"></script>
+<style>
+	
+</style>
+</head>
+<body onload="PlaySnakeGame()" onkeydown="getInput(event)">
+<div>
+		<canvas id="board"
+			width="800"
+			height="700"
+					>Your Browser Does Not Support Canvas!</canvas>
+					<footer>
+					<a href="">Reset Game</a>
+					</footer>
+</div>
+<script>
+		var Player = function(x,y,moveX,moveY) {
+		this.x=x;
+		this.y=y;
+		this.moveX=moveX;
+		this.moveY=moveY;
+		}
+		var Snake = new Player(0,250,1,0);
+		function PlaySnakeGame() {
+			var canvas = document.getElementById("board");
+			var context = canvas.getContext("2d");
+				function draw() {
+					context.fillStyle = "#8F4328";
+					context.fillRect(Snake.x, Snake.y, 40, 2);
+					}
+				function clear() {
+				context.clearRect(0, 0, canvas.width, canvas.height)
+				}
+				
+					var interval = setInterval(function () {
+					clear();
+					draw();
+					
+					move();
+					
+				}, 10);
+					function move() {
+						Snake.x = Snake.x + Snake.moveX;
+						Snake.y = Snake.y + Snake.moveY;
+					}
+					}
+					function getInput(event) {
+				var symbol = String.fromCharCode(event.keyCode);
+				if (symbol == 'A' || symbol == 'a') {
+					Snake.moveX = -1;
+					Snake.moveY = 0;
+				}
+				if (symbol == 'W' || symbol == 'w') {
+					Snake.moveX = 0;
+					Snake.moveY = -1;
+				}
+				if (symbol == 'D' || symbol == 'd') {
+					Snake.moveX = 1;
+					Snake.moveY = 0;
+				}
+				if (symbol == 'S' || symbol == 's') {
+					Snake.moveX = 0;
+					Snake.moveY = 1;
+				}
+				}
+		
+		</script>
+	</body>
+</html>

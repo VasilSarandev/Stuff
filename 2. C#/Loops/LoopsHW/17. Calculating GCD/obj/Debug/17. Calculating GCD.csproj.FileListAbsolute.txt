@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Telerik\Loops HW\LoopsHW\17. Calculating GCD\bin\Debug\_17.Calculating_GCD.exe.config
+C:\Users\User\Desktop\Telerik\Loops HW\LoopsHW\17. Calculating GCD\bin\Debug\_17.Calculating_GCD.exe
+C:\Users\User\Desktop\Telerik\Loops HW\LoopsHW\17. Calculating GCD\bin\Debug\_17.Calculating_GCD.pdb
+C:\Users\User\Desktop\Telerik\Loops HW\LoopsHW\17. Calculating GCD\obj\Debug\17. Calculating GCD.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Telerik\Loops HW\LoopsHW\17. Calculating GCD\obj\Debug\_17.Calculating_GCD.exe
+C:\Users\User\Desktop\Telerik\Loops HW\LoopsHW\17. Calculating GCD\obj\Debug\_17.Calculating_GCD.pdb

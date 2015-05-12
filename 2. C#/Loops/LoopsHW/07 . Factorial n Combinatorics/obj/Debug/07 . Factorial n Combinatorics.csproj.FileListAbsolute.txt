@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Telerik\Loops HW\LoopsHW\07 . Factorial n Combinatorics\bin\Debug\_07.Factorial_n_Combinatorics.exe.config
+C:\Users\User\Desktop\Telerik\Loops HW\LoopsHW\07 . Factorial n Combinatorics\bin\Debug\_07.Factorial_n_Combinatorics.exe
+C:\Users\User\Desktop\Telerik\Loops HW\LoopsHW\07 . Factorial n Combinatorics\bin\Debug\_07.Factorial_n_Combinatorics.pdb
+C:\Users\User\Desktop\Telerik\Loops HW\LoopsHW\07 . Factorial n Combinatorics\obj\Debug\07 . Factorial n Combinatorics.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Telerik\Loops HW\LoopsHW\07 . Factorial n Combinatorics\obj\Debug\_07.Factorial_n_Combinatorics.exe
+C:\Users\User\Desktop\Telerik\Loops HW\LoopsHW\07 . Factorial n Combinatorics\obj\Debug\_07.Factorial_n_Combinatorics.pdb

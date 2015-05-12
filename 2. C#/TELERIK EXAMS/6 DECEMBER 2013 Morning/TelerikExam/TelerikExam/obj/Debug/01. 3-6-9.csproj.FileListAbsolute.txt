@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Telerik\Exercisin'\TELERIK EXAMS\6 DECEMBER 2013 Morning\TelerikExam\TelerikExam\bin\Debug\TelerikExam.exe.config
+C:\Users\User\Desktop\Telerik\Exercisin'\TELERIK EXAMS\6 DECEMBER 2013 Morning\TelerikExam\TelerikExam\bin\Debug\TelerikExam.exe
+C:\Users\User\Desktop\Telerik\Exercisin'\TELERIK EXAMS\6 DECEMBER 2013 Morning\TelerikExam\TelerikExam\bin\Debug\TelerikExam.pdb
+C:\Users\User\Desktop\Telerik\Exercisin'\TELERIK EXAMS\6 DECEMBER 2013 Morning\TelerikExam\TelerikExam\obj\Debug\01. 3-6-9.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Telerik\Exercisin'\TELERIK EXAMS\6 DECEMBER 2013 Morning\TelerikExam\TelerikExam\obj\Debug\TelerikExam.exe
+C:\Users\User\Desktop\Telerik\Exercisin'\TELERIK EXAMS\6 DECEMBER 2013 Morning\TelerikExam\TelerikExam\obj\Debug\TelerikExam.pdb

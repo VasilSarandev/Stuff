@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Telerik\C#2\MethodsHW\08. Number as array\bin\Debug\_08.Number_as_array.exe.config
+C:\Users\User\Desktop\Telerik\C#2\MethodsHW\08. Number as array\bin\Debug\_08.Number_as_array.exe
+C:\Users\User\Desktop\Telerik\C#2\MethodsHW\08. Number as array\bin\Debug\_08.Number_as_array.pdb
+C:\Users\User\Desktop\Telerik\C#2\MethodsHW\08. Number as array\obj\Debug\08. Number as array.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Telerik\C#2\MethodsHW\08. Number as array\obj\Debug\_08.Number_as_array.exe
+C:\Users\User\Desktop\Telerik\C#2\MethodsHW\08. Number as array\obj\Debug\_08.Number_as_array.pdb

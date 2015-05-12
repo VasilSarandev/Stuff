@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\Telerik\Exercisin'\TELERIK EXAMS\5 December\Telerik Exam 5 December Evening\05. Triple Rotation of Digits\bin\Debug\_05.Triple_Rotation_of_Digits.exe.config
+C:\Users\User\Desktop\Telerik\Exercisin'\TELERIK EXAMS\5 December\Telerik Exam 5 December Evening\05. Triple Rotation of Digits\bin\Debug\_05.Triple_Rotation_of_Digits.exe
+C:\Users\User\Desktop\Telerik\Exercisin'\TELERIK EXAMS\5 December\Telerik Exam 5 December Evening\05. Triple Rotation of Digits\bin\Debug\_05.Triple_Rotation_of_Digits.pdb
+C:\Users\User\Desktop\Telerik\Exercisin'\TELERIK EXAMS\5 December\Telerik Exam 5 December Evening\05. Triple Rotation of Digits\obj\Debug\_05.Triple_Rotation_of_Digits.exe
+C:\Users\User\Desktop\Telerik\Exercisin'\TELERIK EXAMS\5 December\Telerik Exam 5 December Evening\05. Triple Rotation of Digits\obj\Debug\_05.Triple_Rotation_of_Digits.pdb

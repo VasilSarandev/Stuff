@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Telerik\Exercisin'\TELERIK EXAMS\27 DEC 2012\TelerikExam27 Dec\EggCelent\bin\Debug\EggCelent.exe.config
+C:\Users\User\Desktop\Telerik\Exercisin'\TELERIK EXAMS\27 DEC 2012\TelerikExam27 Dec\EggCelent\bin\Debug\EggCelent.exe
+C:\Users\User\Desktop\Telerik\Exercisin'\TELERIK EXAMS\27 DEC 2012\TelerikExam27 Dec\EggCelent\bin\Debug\EggCelent.pdb
+C:\Users\User\Desktop\Telerik\Exercisin'\TELERIK EXAMS\27 DEC 2012\TelerikExam27 Dec\EggCelent\obj\Debug\EggCelent.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Telerik\Exercisin'\TELERIK EXAMS\27 DEC 2012\TelerikExam27 Dec\EggCelent\obj\Debug\EggCelent.exe
+C:\Users\User\Desktop\Telerik\Exercisin'\TELERIK EXAMS\27 DEC 2012\TelerikExam27 Dec\EggCelent\obj\Debug\EggCelent.pdb

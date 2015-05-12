@@ -1,0 +1,5 @@
+C:\Users\Krasimir\Desktop\TELERIK\TELERIK HW\Programming Introduction\New folder\HelloCSharp\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Krasimir\Desktop\TELERIK\TELERIK HW\Programming Introduction\New folder\HelloCSharp\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Krasimir\Desktop\TELERIK\TELERIK HW\Programming Introduction\New folder\HelloCSharp\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Krasimir\Desktop\TELERIK\TELERIK HW\Programming Introduction\New folder\HelloCSharp\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Krasimir\Desktop\TELERIK\TELERIK HW\Programming Introduction\New folder\HelloCSharp\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

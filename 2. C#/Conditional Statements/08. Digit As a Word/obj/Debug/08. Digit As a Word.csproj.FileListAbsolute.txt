@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Telerik\Exercisin'\Conditional Statements HW\08. Digit As a Word\bin\Debug\_08.Digit_As_a_Word.exe.config
+C:\Users\User\Desktop\Telerik\Exercisin'\Conditional Statements HW\08. Digit As a Word\bin\Debug\_08.Digit_As_a_Word.exe
+C:\Users\User\Desktop\Telerik\Exercisin'\Conditional Statements HW\08. Digit As a Word\bin\Debug\_08.Digit_As_a_Word.pdb
+C:\Users\User\Desktop\Telerik\Exercisin'\Conditional Statements HW\08. Digit As a Word\obj\Debug\08. Digit As a Word.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Telerik\Exercisin'\Conditional Statements HW\08. Digit As a Word\obj\Debug\_08.Digit_As_a_Word.exe
+C:\Users\User\Desktop\Telerik\Exercisin'\Conditional Statements HW\08. Digit As a Word\obj\Debug\_08.Digit_As_a_Word.pdb

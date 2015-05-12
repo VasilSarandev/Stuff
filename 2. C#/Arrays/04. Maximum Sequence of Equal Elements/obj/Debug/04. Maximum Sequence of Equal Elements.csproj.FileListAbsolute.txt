@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Telerik\C#2\ArraysHW\04. Maximum Sequence of Equal Elements\bin\Debug\_04.Maximum_Sequence_of_Equal_Elements.exe.config
+C:\Users\User\Desktop\Telerik\C#2\ArraysHW\04. Maximum Sequence of Equal Elements\bin\Debug\_04.Maximum_Sequence_of_Equal_Elements.exe
+C:\Users\User\Desktop\Telerik\C#2\ArraysHW\04. Maximum Sequence of Equal Elements\bin\Debug\_04.Maximum_Sequence_of_Equal_Elements.pdb
+C:\Users\User\Desktop\Telerik\C#2\ArraysHW\04. Maximum Sequence of Equal Elements\obj\Debug\04. Maximum Sequence of Equal Elements.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Telerik\C#2\ArraysHW\04. Maximum Sequence of Equal Elements\obj\Debug\_04.Maximum_Sequence_of_Equal_Elements.exe
+C:\Users\User\Desktop\Telerik\C#2\ArraysHW\04. Maximum Sequence of Equal Elements\obj\Debug\_04.Maximum_Sequence_of_Equal_Elements.pdb

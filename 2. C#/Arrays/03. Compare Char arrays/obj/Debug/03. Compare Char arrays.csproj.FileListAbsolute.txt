@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\Telerik\C#2\ArraysHW\03. Compare Char arrays\bin\Debug\_03.Compare_Char_arrays.exe.config
+C:\Users\User\Desktop\Telerik\C#2\ArraysHW\03. Compare Char arrays\bin\Debug\_03.Compare_Char_arrays.exe
+C:\Users\User\Desktop\Telerik\C#2\ArraysHW\03. Compare Char arrays\bin\Debug\_03.Compare_Char_arrays.pdb
+C:\Users\User\Desktop\Telerik\C#2\ArraysHW\03. Compare Char arrays\obj\Debug\_03.Compare_Char_arrays.exe
+C:\Users\User\Desktop\Telerik\C#2\ArraysHW\03. Compare Char arrays\obj\Debug\_03.Compare_Char_arrays.pdb

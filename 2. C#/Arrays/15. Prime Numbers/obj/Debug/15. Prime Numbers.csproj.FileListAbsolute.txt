@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\Telerik\C#2\ArraysHW\15. Prime Numbers\bin\Debug\_15.Prime_Numbers.exe.config
+C:\Users\User\Desktop\Telerik\C#2\ArraysHW\15. Prime Numbers\bin\Debug\_15.Prime_Numbers.exe
+C:\Users\User\Desktop\Telerik\C#2\ArraysHW\15. Prime Numbers\bin\Debug\_15.Prime_Numbers.pdb
+C:\Users\User\Desktop\Telerik\C#2\ArraysHW\15. Prime Numbers\obj\Debug\_15.Prime_Numbers.exe
+C:\Users\User\Desktop\Telerik\C#2\ArraysHW\15. Prime Numbers\obj\Debug\_15.Prime_Numbers.pdb

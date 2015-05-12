@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\Telerik\Exercisin'\TELERIK EXAMS\23 June 2013\Telerik Exam 23 June 2013\03. Bulls and Cows\bin\Debug\_03.Bulls_and_Cows.exe.config
+C:\Users\User\Desktop\Telerik\Exercisin'\TELERIK EXAMS\23 June 2013\Telerik Exam 23 June 2013\03. Bulls and Cows\bin\Debug\_03.Bulls_and_Cows.exe
+C:\Users\User\Desktop\Telerik\Exercisin'\TELERIK EXAMS\23 June 2013\Telerik Exam 23 June 2013\03. Bulls and Cows\bin\Debug\_03.Bulls_and_Cows.pdb
+C:\Users\User\Desktop\Telerik\Exercisin'\TELERIK EXAMS\23 June 2013\Telerik Exam 23 June 2013\03. Bulls and Cows\obj\Debug\_03.Bulls_and_Cows.exe
+C:\Users\User\Desktop\Telerik\Exercisin'\TELERIK EXAMS\23 June 2013\Telerik Exam 23 June 2013\03. Bulls and Cows\obj\Debug\_03.Bulls_and_Cows.pdb

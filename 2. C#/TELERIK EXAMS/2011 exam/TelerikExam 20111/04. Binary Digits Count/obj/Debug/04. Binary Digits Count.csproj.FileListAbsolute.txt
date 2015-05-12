@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Telerik\Exercisin'\TELERIK EXAMS\2011 exam\TelerikExam 20111\04. Binary Digits Count\bin\Debug\_04.Binary_Digits_Count.exe.config
+C:\Users\User\Desktop\Telerik\Exercisin'\TELERIK EXAMS\2011 exam\TelerikExam 20111\04. Binary Digits Count\bin\Debug\_04.Binary_Digits_Count.exe
+C:\Users\User\Desktop\Telerik\Exercisin'\TELERIK EXAMS\2011 exam\TelerikExam 20111\04. Binary Digits Count\bin\Debug\_04.Binary_Digits_Count.pdb
+C:\Users\User\Desktop\Telerik\Exercisin'\TELERIK EXAMS\2011 exam\TelerikExam 20111\04. Binary Digits Count\obj\Debug\04. Binary Digits Count.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Telerik\Exercisin'\TELERIK EXAMS\2011 exam\TelerikExam 20111\04. Binary Digits Count\obj\Debug\_04.Binary_Digits_Count.exe
+C:\Users\User\Desktop\Telerik\Exercisin'\TELERIK EXAMS\2011 exam\TelerikExam 20111\04. Binary Digits Count\obj\Debug\_04.Binary_Digits_Count.pdb

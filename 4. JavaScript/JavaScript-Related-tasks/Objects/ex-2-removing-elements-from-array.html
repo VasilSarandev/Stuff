@@ -1,0 +1,31 @@
+﻿<html>
+<head>
+<title>Removing elements with a given value from array</title>
+	<link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+<div id="js-console"></div>
+<script src="scripts/js-console.js"></script>
+<script>
+		Array.prototype.remove = function() {
+			var what, a = arguments, L = a.length, ax;
+			while (L && this.length) {
+			what = a[--L];
+			while ((ax = this.indexOf(what)) !== -1) {
+			this.splice(ax, 1);
+			}
+			}
+return this;
+		};
+var arr = [1, 2, 1, 4, 1, "1", 3, 4, 1, 111, 3, 2, 1, "1"];
+jsConsole.writeLine("Given Array(4th and last 1 are strings.) " +arr);
+jsConsole.writeLine("Removing : 1 ");
+
+var finalArr = arr.remove(1);
+
+for (var i in finalArr) {
+    jsConsole.writeLine(finalArr[i] + "</br>");
+}
+</script>
+</body>
+</html>

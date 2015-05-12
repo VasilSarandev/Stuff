@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\Telerik\Exercisin'\TELERIK EXAMS\27 DEC 2012\TelerikExam27 Dec\02. Tribonacci Triangle\bin\Debug\_02.Tribonacci_Triangle.exe.config
+C:\Users\User\Desktop\Telerik\Exercisin'\TELERIK EXAMS\27 DEC 2012\TelerikExam27 Dec\02. Tribonacci Triangle\bin\Debug\_02.Tribonacci_Triangle.exe
+C:\Users\User\Desktop\Telerik\Exercisin'\TELERIK EXAMS\27 DEC 2012\TelerikExam27 Dec\02. Tribonacci Triangle\bin\Debug\_02.Tribonacci_Triangle.pdb
+C:\Users\User\Desktop\Telerik\Exercisin'\TELERIK EXAMS\27 DEC 2012\TelerikExam27 Dec\02. Tribonacci Triangle\obj\Debug\_02.Tribonacci_Triangle.exe
+C:\Users\User\Desktop\Telerik\Exercisin'\TELERIK EXAMS\27 DEC 2012\TelerikExam27 Dec\02. Tribonacci Triangle\obj\Debug\_02.Tribonacci_Triangle.pdb

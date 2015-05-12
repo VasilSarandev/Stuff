@@ -1,0 +1,6 @@
+C:\Users\Krasimir\Desktop\TELERIK\TELERIK HW\Programming Introduction\New folder\HelloCSharp\DateAndTime( Ex 14)\bin\Debug\DateAndTime( Ex 14).exe.config
+C:\Users\Krasimir\Desktop\TELERIK\TELERIK HW\Programming Introduction\New folder\HelloCSharp\DateAndTime( Ex 14)\bin\Debug\DateAndTime( Ex 14).exe
+C:\Users\Krasimir\Desktop\TELERIK\TELERIK HW\Programming Introduction\New folder\HelloCSharp\DateAndTime( Ex 14)\bin\Debug\DateAndTime( Ex 14).pdb
+C:\Users\Krasimir\Desktop\TELERIK\TELERIK HW\Programming Introduction\New folder\HelloCSharp\DateAndTime( Ex 14)\obj\Debug\DateAndTime( Ex 14).csprojResolveAssemblyReference.cache
+C:\Users\Krasimir\Desktop\TELERIK\TELERIK HW\Programming Introduction\New folder\HelloCSharp\DateAndTime( Ex 14)\obj\Debug\DateAndTime( Ex 14).exe
+C:\Users\Krasimir\Desktop\TELERIK\TELERIK HW\Programming Introduction\New folder\HelloCSharp\DateAndTime( Ex 14)\obj\Debug\DateAndTime( Ex 14).pdb

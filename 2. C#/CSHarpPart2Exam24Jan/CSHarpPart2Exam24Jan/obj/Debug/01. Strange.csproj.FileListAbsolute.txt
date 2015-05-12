@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Telerik\C#2\CSHarpPart2Exam24Jan\CSHarpPart2Exam24Jan\bin\Debug\CSHarpPart2Exam24Jan.exe.config
+C:\Users\User\Desktop\Telerik\C#2\CSHarpPart2Exam24Jan\CSHarpPart2Exam24Jan\bin\Debug\CSHarpPart2Exam24Jan.exe
+C:\Users\User\Desktop\Telerik\C#2\CSHarpPart2Exam24Jan\CSHarpPart2Exam24Jan\bin\Debug\CSHarpPart2Exam24Jan.pdb
+C:\Users\User\Desktop\Telerik\C#2\CSHarpPart2Exam24Jan\CSHarpPart2Exam24Jan\obj\Debug\01. Strange.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Telerik\C#2\CSHarpPart2Exam24Jan\CSHarpPart2Exam24Jan\obj\Debug\CSHarpPart2Exam24Jan.exe
+C:\Users\User\Desktop\Telerik\C#2\CSHarpPart2Exam24Jan\CSHarpPart2Exam24Jan\obj\Debug\CSHarpPart2Exam24Jan.pdb

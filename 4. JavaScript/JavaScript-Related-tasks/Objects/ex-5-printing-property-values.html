@@ -1,0 +1,30 @@
+﻿<html>
+<head>
+<title>Find youngest and print first and last name.</title>
+	<link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+<div id="js-console"></div>
+<script src="scripts/js-console.js"></script>
+<script>
+var argumentnum=0;
+var youngestperson=350;
+var persons = [
+{ firstname : "Ivan", lastname: "Petkov", age: 41}, 
+{ firstname: "Vasil", lastname: "Sarandev", age: 16 }
+];
+for (var i in persons) {
+if(persons[i].age < youngestperson) {
+youngestperson=persons[i].age;
+argumentnum=i;
+}
+}
+jsConsole.writeLine("Arguments of array: Ivan Petkov, age 41; Vasil Sarandev, age 16");
+jsConsole.writeLine("First and last name of youngest person : ");
+jsConsole.writeLine(persons[argumentnum].firstname);
+jsConsole.writeLine(persons[argumentnum].lastname);
+
+
+</script>
+</body>
+</html>

@@ -1,0 +1,6 @@
+C:\Users\Krasimir\Desktop\TELERIK\TELERIK HW\Programming Introduction\New folder\HelloCSharp\CalculatingSquareRoot (Ex 8)\bin\Debug\CalculatingSquareRoot (Ex 8).exe.config
+C:\Users\Krasimir\Desktop\TELERIK\TELERIK HW\Programming Introduction\New folder\HelloCSharp\CalculatingSquareRoot (Ex 8)\bin\Debug\CalculatingSquareRoot (Ex 8).exe
+C:\Users\Krasimir\Desktop\TELERIK\TELERIK HW\Programming Introduction\New folder\HelloCSharp\CalculatingSquareRoot (Ex 8)\bin\Debug\CalculatingSquareRoot (Ex 8).pdb
+C:\Users\Krasimir\Desktop\TELERIK\TELERIK HW\Programming Introduction\New folder\HelloCSharp\CalculatingSquareRoot (Ex 8)\obj\Debug\CalculatingSquareRoot (Ex 8).csprojResolveAssemblyReference.cache
+C:\Users\Krasimir\Desktop\TELERIK\TELERIK HW\Programming Introduction\New folder\HelloCSharp\CalculatingSquareRoot (Ex 8)\obj\Debug\CalculatingSquareRoot (Ex 8).exe
+C:\Users\Krasimir\Desktop\TELERIK\TELERIK HW\Programming Introduction\New folder\HelloCSharp\CalculatingSquareRoot (Ex 8)\obj\Debug\CalculatingSquareRoot (Ex 8).pdb

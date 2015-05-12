@@ -1,0 +1,20 @@
+﻿.first
+{color: #0066FF; 
+  font-family:arial; 
+  font-size: 20px; 
+  }
+ .second{
+ color: gray;
+ font-family: arial;
+ font-size:15px;
+ }
+ .third{
+ color: orange;
+ font-family:arial;
+ font-size:15px;
+ }
+ .stuped
+ {background-color: white;
+ width:450px;
+ height:480px;
+ }

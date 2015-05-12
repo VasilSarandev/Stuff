@@ -1,0 +1,105 @@
+﻿<html>
+<head>
+<title>Find youngest and print first and last name.</title>
+	<link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+<button onclick="SortByAge()">Sort By Age</button>
+<div id="js-console"></div>
+<script src="scripts/js-console.js"></script>
+	<script>
+            var persons = [
+                {
+                    firstName: "Ivan", 
+                    lastName: "Ivanov",
+                    age: 32
+                }, {
+                    firstName: "Ivan",
+                    lastName: "Petrov",
+                    age: 81
+                }, {
+                    firstName: "Stoian",
+                    lastName: "Ivanov",
+                    age: 113
+                }, {
+                    firstName: "Petar",
+                    lastName: "Dimitrov",
+                    age: 32
+                }
+            ];
+
+            function HasKey(obj, key) {
+                for (var prop in obj) {
+                    if (prop == key) {
+                        return true;
+                    }
+                }
+                return false;
+            }
+            
+            function GroupBy(arr, prop) {
+                var result = {};
+                var key;
+
+                result.print = function () {
+
+                    for (var obj in result) {
+
+                        if (obj == "print") {continue;}
+
+                        jsConsole.writeLine("Key: " + obj);
+                        jsConsole.writeLine("Persons:");
+
+                        for (var person in result[obj]) {
+                            var currPerson = result[obj][person];
+                            jsConsole.writeLine("FirstName: " + currPerson.firstName + "; LastName: " + currPerson.lastName + "; Age: " + currPerson.age);
+                        }
+                    }
+                }
+                
+                switch (prop) {
+                    case "firstName":
+                    case "lastName":
+                    case "age":
+                        for (var person in persons) {
+
+                            key = arr[person][prop];
+
+                            
+                            if (HasKey(result, arr[person][prop])) {
+
+                                result[key].push(arr[person]);
+                            }
+                            else {
+
+                                result[key] = [];
+                                result[key].push(arr[person]);
+                            }
+                        }
+                        break;
+                    default:
+                        jsConsole.writeLine("Error! You must not enter here!");
+                }
+            
+                return result;
+            }
+            var people = GroupBy(persons, "firstName");
+            jsConsole.writeLine("Group by First Name:");
+            people.print();
+            jsConsole.writeLine("");
+            
+            people = GroupBy(persons, "lastName");
+            jsConsole.writeLine("Group by Last Name:");
+            people.print();
+            jsConsole.writeLine("");
+            
+            people = GroupBy(persons, "age");
+            jsConsole.writeLine("Group by Age:");
+            people.print();
+            var a = 3;
+            
+       
+        </script>
+
+</body>
+</html>

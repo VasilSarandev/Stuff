@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\Telerik\C#2\ArraysHW\10. Find Sum in Array\bin\Debug\_10.Find_Sum_in_Array.exe.config
+C:\Users\User\Desktop\Telerik\C#2\ArraysHW\10. Find Sum in Array\bin\Debug\_10.Find_Sum_in_Array.exe
+C:\Users\User\Desktop\Telerik\C#2\ArraysHW\10. Find Sum in Array\bin\Debug\_10.Find_Sum_in_Array.pdb
+C:\Users\User\Desktop\Telerik\C#2\ArraysHW\10. Find Sum in Array\obj\Debug\_10.Find_Sum_in_Array.exe
+C:\Users\User\Desktop\Telerik\C#2\ArraysHW\10. Find Sum in Array\obj\Debug\_10.Find_Sum_in_Array.pdb

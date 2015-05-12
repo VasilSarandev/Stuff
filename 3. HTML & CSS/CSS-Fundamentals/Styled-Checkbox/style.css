@@ -1,0 +1,15 @@
+﻿.custom-style
+{
+
+height: 15px;
+width: 30px;
+}
+.pretty-table
+{
+cell spacing=0;
+cell padding=0.5em;
+}
+
+.place1, .place, .avaliable, .name{
+    background-color:green;
+}

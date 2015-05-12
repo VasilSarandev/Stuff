@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Telerik\Exercisin'\TELERIK EXAMS\2011 exam\TelerikExam 20111\02. Miss Cat\bin\Debug\_02.Miss_Cat.exe.config
+C:\Users\User\Desktop\Telerik\Exercisin'\TELERIK EXAMS\2011 exam\TelerikExam 20111\02. Miss Cat\bin\Debug\_02.Miss_Cat.exe
+C:\Users\User\Desktop\Telerik\Exercisin'\TELERIK EXAMS\2011 exam\TelerikExam 20111\02. Miss Cat\bin\Debug\_02.Miss_Cat.pdb
+C:\Users\User\Desktop\Telerik\Exercisin'\TELERIK EXAMS\2011 exam\TelerikExam 20111\02. Miss Cat\obj\Debug\02. Miss Cat.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Telerik\Exercisin'\TELERIK EXAMS\2011 exam\TelerikExam 20111\02. Miss Cat\obj\Debug\_02.Miss_Cat.exe
+C:\Users\User\Desktop\Telerik\Exercisin'\TELERIK EXAMS\2011 exam\TelerikExam 20111\02. Miss Cat\obj\Debug\_02.Miss_Cat.pdb

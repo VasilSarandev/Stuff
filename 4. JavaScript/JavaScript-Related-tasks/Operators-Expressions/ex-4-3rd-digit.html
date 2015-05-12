@@ -1,0 +1,30 @@
+﻿<html>
+<head>
+	<title></title>
+	<link href="styles/js-console.css" rel="stylesheet" />
+	
+</head>
+<body>
+<h1>Is the third digit 7?</h1>
+<input type="text" id="tb" placeholder="Please enter a integer" />
+<input type="button" value="Find out" onclick="Calculate()"/>
+<div id="js-console"></div>
+<script src="scripts/js-console.js"></script>
+<script>
+function Calculate() {
+		var a=document.getElementById('tb') .value;
+		a=a/100;
+		a=Math.floor(a);
+		a=a%10;
+		if(a==7) {
+		jsConsole.writeLine("Yes, the third number from right to left is 7.")
+		jsConsole.writeLine("Magic.")
+		}
+		else
+		jsConsole.writeLine("No.")
+
+	
+}
+</script>
+</body>
+

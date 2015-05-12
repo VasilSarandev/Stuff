@@ -1,0 +1,27 @@
+﻿<html>
+<head>
+	<title></title>
+	<link href="styles/js-console.css" rel="stylesheet" />
+	
+</head>
+<body>
+<h1> Can integer be divided by 5 and 7 at the same time ? </h1>
+<input type="text" placeholder="Please enter a integer" id="tb" />
+<input type="button" value="Use the Force" onclick="Calculate()" />
+<div id="js-console"></div>
+<script src="scripts/js-console.js"></script>
+<script>
+function Calculate() {
+var num=document.getElementById('tb') .value;
+num=parseInt(num);
+if(num%35) {
+jsConsole.writeLine("No, it can't be divided by 5 and 7 at the same time");
+}
+else{
+jsConsole.writeLine("Integer can be divided by 5 and 7 at the same time");
+jsConsole.writeLine("The Force shall be with you");
+}
+}
+</script>
+</body>
+</html>

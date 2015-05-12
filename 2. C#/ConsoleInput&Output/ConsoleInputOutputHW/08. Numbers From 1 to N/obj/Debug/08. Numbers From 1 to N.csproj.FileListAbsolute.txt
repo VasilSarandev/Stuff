@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\Telerik\ConsoleInput&Output HW\ConsoleInputOutputHW\08. Numbers From 1 to N\bin\Debug\_08.Numbers_From_1_to_N.exe.config
+C:\Users\User\Desktop\Telerik\ConsoleInput&Output HW\ConsoleInputOutputHW\08. Numbers From 1 to N\bin\Debug\_08.Numbers_From_1_to_N.exe
+C:\Users\User\Desktop\Telerik\ConsoleInput&Output HW\ConsoleInputOutputHW\08. Numbers From 1 to N\bin\Debug\_08.Numbers_From_1_to_N.pdb
+C:\Users\User\Desktop\Telerik\ConsoleInput&Output HW\ConsoleInputOutputHW\08. Numbers From 1 to N\obj\Debug\_08.Numbers_From_1_to_N.exe
+C:\Users\User\Desktop\Telerik\ConsoleInput&Output HW\ConsoleInputOutputHW\08. Numbers From 1 to N\obj\Debug\_08.Numbers_From_1_to_N.pdb

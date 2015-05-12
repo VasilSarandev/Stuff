@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Telerik\C#2\Numeral Systems HW\08. Binary Short\bin\Debug\_08.Binary_Short.exe.config
+C:\Users\User\Desktop\Telerik\C#2\Numeral Systems HW\08. Binary Short\bin\Debug\_08.Binary_Short.exe
+C:\Users\User\Desktop\Telerik\C#2\Numeral Systems HW\08. Binary Short\bin\Debug\_08.Binary_Short.pdb
+C:\Users\User\Desktop\Telerik\C#2\Numeral Systems HW\08. Binary Short\obj\Debug\08. Binary Short.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Telerik\C#2\Numeral Systems HW\08. Binary Short\obj\Debug\_08.Binary_Short.exe
+C:\Users\User\Desktop\Telerik\C#2\Numeral Systems HW\08. Binary Short\obj\Debug\_08.Binary_Short.pdb

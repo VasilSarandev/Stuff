@@ -1,0 +1,24 @@
+﻿<html>
+<head>
+	<title></title>
+	<link href="styles/js-console.css" rel="stylesheet" />
+	
+</head>
+<body>
+<h1>What is third bit?</h1>
+<input type="text" id="tb" placeholder="Please enter a integer" />
+<input type="button" value="Find out" onclick="Calculate()"/>
+<div id="js-console"></div>
+<script src="scripts/js-console.js"></script>
+<script>
+function Calculate() {
+var Number=document.getElementById('tb').value;
+var pos=3;
+var mask= 1<<pos;
+var result= Number & mask;
+var bit = result>>pos;
+jsConsole.writeLine("Third bit of number " +Number.toString(2) + " is " +bit);
+}
+</script>
+</body>
+</html>

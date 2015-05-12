@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Telerik\ConsoleInput&Output HW\ConsoleInputOutputHW\02. CompanyInformation\bin\Debug\_02.CompanyInformation.exe.config
+C:\Users\User\Desktop\Telerik\ConsoleInput&Output HW\ConsoleInputOutputHW\02. CompanyInformation\bin\Debug\_02.CompanyInformation.exe
+C:\Users\User\Desktop\Telerik\ConsoleInput&Output HW\ConsoleInputOutputHW\02. CompanyInformation\bin\Debug\_02.CompanyInformation.pdb
+C:\Users\User\Desktop\Telerik\ConsoleInput&Output HW\ConsoleInputOutputHW\02. CompanyInformation\obj\Debug\02. CompanyInformation.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Telerik\ConsoleInput&Output HW\ConsoleInputOutputHW\02. CompanyInformation\obj\Debug\_02.CompanyInformation.exe
+C:\Users\User\Desktop\Telerik\ConsoleInput&Output HW\ConsoleInputOutputHW\02. CompanyInformation\obj\Debug\_02.CompanyInformation.pdb

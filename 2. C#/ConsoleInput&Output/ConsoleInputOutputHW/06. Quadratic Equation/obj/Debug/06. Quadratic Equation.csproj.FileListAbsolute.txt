@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Telerik\ConsoleInput&Output HW\ConsoleInputOutputHW\06. Quadratic Equation\bin\Debug\_06.Quadratic_Equation.exe.config
+C:\Users\User\Desktop\Telerik\ConsoleInput&Output HW\ConsoleInputOutputHW\06. Quadratic Equation\bin\Debug\_06.Quadratic_Equation.exe
+C:\Users\User\Desktop\Telerik\ConsoleInput&Output HW\ConsoleInputOutputHW\06. Quadratic Equation\bin\Debug\_06.Quadratic_Equation.pdb
+C:\Users\User\Desktop\Telerik\ConsoleInput&Output HW\ConsoleInputOutputHW\06. Quadratic Equation\obj\Debug\06. Quadratic Equation.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Telerik\ConsoleInput&Output HW\ConsoleInputOutputHW\06. Quadratic Equation\obj\Debug\_06.Quadratic_Equation.exe
+C:\Users\User\Desktop\Telerik\ConsoleInput&Output HW\ConsoleInputOutputHW\06. Quadratic Equation\obj\Debug\_06.Quadratic_Equation.pdb

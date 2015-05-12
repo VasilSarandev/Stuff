@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Telerik\Exercisin'\TELERIK EXAMS\5 December\Telerik Exam 5 December Evening\01. Peace of Cake\bin\Debug\_01.Peace_of_Cake.exe.config
+C:\Users\User\Desktop\Telerik\Exercisin'\TELERIK EXAMS\5 December\Telerik Exam 5 December Evening\01. Peace of Cake\bin\Debug\_01.Peace_of_Cake.exe
+C:\Users\User\Desktop\Telerik\Exercisin'\TELERIK EXAMS\5 December\Telerik Exam 5 December Evening\01. Peace of Cake\bin\Debug\_01.Peace_of_Cake.pdb
+C:\Users\User\Desktop\Telerik\Exercisin'\TELERIK EXAMS\5 December\Telerik Exam 5 December Evening\01. Peace of Cake\obj\Debug\_01.Peace_of_Cake.exe
+C:\Users\User\Desktop\Telerik\Exercisin'\TELERIK EXAMS\5 December\Telerik Exam 5 December Evening\01. Peace of Cake\obj\Debug\_01.Peace_of_Cake.pdb
+C:\Users\User\Desktop\Telerik\Exercisin'\TELERIK EXAMS\5 December\Telerik Exam 5 December Evening\01. Peace of Cake\obj\Debug\01. Peace of Cake.csprojResolveAssemblyReference.cache

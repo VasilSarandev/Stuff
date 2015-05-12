@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Telerik\ConsoleInput&Output HW\ConsoleInputOutputHW\05. Formatting Numbers\bin\Debug\_05.Formatting_Numbers.exe.config
+C:\Users\User\Desktop\Telerik\ConsoleInput&Output HW\ConsoleInputOutputHW\05. Formatting Numbers\bin\Debug\_05.Formatting_Numbers.exe
+C:\Users\User\Desktop\Telerik\ConsoleInput&Output HW\ConsoleInputOutputHW\05. Formatting Numbers\bin\Debug\_05.Formatting_Numbers.pdb
+C:\Users\User\Desktop\Telerik\ConsoleInput&Output HW\ConsoleInputOutputHW\05. Formatting Numbers\obj\Debug\05. Formatting Numbers.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Telerik\ConsoleInput&Output HW\ConsoleInputOutputHW\05. Formatting Numbers\obj\Debug\_05.Formatting_Numbers.exe
+C:\Users\User\Desktop\Telerik\ConsoleInput&Output HW\ConsoleInputOutputHW\05. Formatting Numbers\obj\Debug\_05.Formatting_Numbers.pdb

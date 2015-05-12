@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Telerik\C#2\ArraysHW\ArraysHW\bin\Debug\ArraysHW.exe.config
+C:\Users\User\Desktop\Telerik\C#2\ArraysHW\ArraysHW\bin\Debug\ArraysHW.exe
+C:\Users\User\Desktop\Telerik\C#2\ArraysHW\ArraysHW\bin\Debug\ArraysHW.pdb
+C:\Users\User\Desktop\Telerik\C#2\ArraysHW\ArraysHW\obj\Debug\01. Allocate Array.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Telerik\C#2\ArraysHW\ArraysHW\obj\Debug\ArraysHW.exe
+C:\Users\User\Desktop\Telerik\C#2\ArraysHW\ArraysHW\obj\Debug\ArraysHW.pdb

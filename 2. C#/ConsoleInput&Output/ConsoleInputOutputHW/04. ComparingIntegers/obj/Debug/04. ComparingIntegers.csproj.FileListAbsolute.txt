@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\Telerik\ConsoleInput&Output HW\ConsoleInputOutputHW\04. ComparingIntegers\bin\Debug\_04.ComparingIntegers.exe.config
+C:\Users\User\Desktop\Telerik\ConsoleInput&Output HW\ConsoleInputOutputHW\04. ComparingIntegers\bin\Debug\_04.ComparingIntegers.exe
+C:\Users\User\Desktop\Telerik\ConsoleInput&Output HW\ConsoleInputOutputHW\04. ComparingIntegers\bin\Debug\_04.ComparingIntegers.pdb
+C:\Users\User\Desktop\Telerik\ConsoleInput&Output HW\ConsoleInputOutputHW\04. ComparingIntegers\obj\Debug\_04.ComparingIntegers.exe
+C:\Users\User\Desktop\Telerik\ConsoleInput&Output HW\ConsoleInputOutputHW\04. ComparingIntegers\obj\Debug\_04.ComparingIntegers.pdb

@@ -1,0 +1,21 @@
+﻿<html>
+<head>
+<title>Reversing string.</title>
+	<link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+<input type="text" placeholder="Enter a string" id="tb" />
+<button onclick="Reverse()">Reverse</button>
+<div id="js-console"></div>
+<script src="scripts/js-console.js"></script>
+	<script>
+		function Reverse() {
+var MyStr=document.getElementById('tb').value;
+var ReversedString= '';
+for(var i=MyStr.length - 1; i >= 0; i--)
+ReversedString+=MyStr[i];
+jsConsole.writeLine("Reversed String : " +ReversedString);
+}
+</script>
+</body>
+</html>
